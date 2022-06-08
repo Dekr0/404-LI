@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T23:15:48.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5070.0 Safari/537.36 Edg/104.0.1271.2" version="19.0.1" etag="RP7TUwqgOImph_IRCjfB" type="github"><diagram id="x_s2CizzIe0xejOUc2E4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-08T23:40:45.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4967.0 Safari/537.36" etag="gvKXMNig44WhtLNndWX_" version="19.0.1" type="github">
+  <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
+    <mxGraphModel dx="675" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P1DnXNQam8rRqI48JGVU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-1" target="P1DnXNQam8rRqI48JGVU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-1" value="Three regions in Ukraine experienced 1 ~ 3.5 hours power outage." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="10" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-7" value="Power stations of three electric power distribution companies in the corresponding regions were switched off remotely by threat actors, and critical system data in the companies was destroyed by threat actors." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="101.25" y="60" width="518.75" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
