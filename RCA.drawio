@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T00:48:56.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4967.0 Safari/537.36" etag="peNoIMuFo0uk8NosC3YZ" version="19.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T01:24:16.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4967.0 Safari/537.36" etag="38qO3NWCOhpE-eyHaOiu" version="19.0.1" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="1606" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1604" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="P1DnXNQam8rRqI48JGVU-19" value="Threat actors use native remote access services and valid credentials to open breakers in the power distribution companies and disrupt power distribution in the three regions." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="172" width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P1DnXNQam8rRqI48JGVU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-23" target="P1DnXNQam8rRqI48JGVU-33">
+        <mxCell id="P1DnXNQam8rRqI48JGVU-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-23" target="P1DnXNQam8rRqI48JGVU-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1DnXNQam8rRqI48JGVU-23" value="Manual response draws out recovery time because operators are unable to remotely close the breakers, requiring workers to manually close breakers at each substation." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,11 +46,26 @@
         <mxCell id="P1DnXNQam8rRqI48JGVU-25" value="Power outage was not able to restore and recover within a short period of time after the attacks.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="172" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P1DnXNQam8rRqI48JGVU-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="172" width="120" height="60" as="geometry" />
+        <mxCell id="P1DnXNQam8rRqI48JGVU-31" value="Scheduled execution of KillDisk malware erases the master boot records and deletes system log data on targeted machines across the victims&#39; corporate and ICS network" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="172" width="360" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="P1DnXNQam8rRqI48JGVU-33" value="" style="shape=or;whiteSpace=wrap;html=1;direction=south;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="356.25" y="340" width="37.5" height="30" as="geometry" />
+        <mxCell id="P1DnXNQam8rRqI48JGVU-40" value="Power loss to telephone server disrupts communication across remote sites, and disruptions at control centers inhibit ability to monitor and respond to attack against breakers." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="375" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-44" target="P1DnXNQam8rRqI48JGVU-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-44" target="P1DnXNQam8rRqI48JGVU-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-44" target="P1DnXNQam8rRqI48JGVU-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-44" value="" style="shape=or;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="330" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-49" value="Serial-to-Ethernet converters were inoperable, and connections between the control center and the substations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="400" width="330" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
