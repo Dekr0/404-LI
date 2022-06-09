@@ -1,17 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T23:40:45.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4967.0 Safari/537.36" etag="gvKXMNig44WhtLNndWX_" version="19.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T00:48:56.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4967.0 Safari/537.36" etag="peNoIMuFo0uk8NosC3YZ" version="19.0.1" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="675" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P1DnXNQam8rRqI48JGVU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-1" target="P1DnXNQam8rRqI48JGVU-7">
+        <mxCell id="P1DnXNQam8rRqI48JGVU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-1" target="P1DnXNQam8rRqI48JGVU-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P1DnXNQam8rRqI48JGVU-1" value="Three regions in Ukraine experienced 1 ~ 3.5 hours power outage." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="10" width="380" height="30" as="geometry" />
+        <mxCell id="P1DnXNQam8rRqI48JGVU-1" value="Three regions in Ukraine experienced 1 ~ 3.5 hours power outage. Critical system data in three regional electric power distribution companies was destroyed.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="590" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P1DnXNQam8rRqI48JGVU-7" value="Power stations of three electric power distribution companies in the corresponding regions were switched off remotely by threat actors, and critical system data in the companies was destroyed by threat actors." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="101.25" y="60" width="518.75" height="60" as="geometry" />
+        <mxCell id="P1DnXNQam8rRqI48JGVU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-17" target="P1DnXNQam8rRqI48JGVU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-17" target="P1DnXNQam8rRqI48JGVU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-17" target="P1DnXNQam8rRqI48JGVU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-17" target="P1DnXNQam8rRqI48JGVU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-17" target="P1DnXNQam8rRqI48JGVU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-17" target="P1DnXNQam8rRqI48JGVU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-17" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="361.25" y="130" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-19" value="Threat actors use native remote access services and valid credentials to open breakers in the power distribution companies and disrupt power distribution in the three regions." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="172" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-23" target="P1DnXNQam8rRqI48JGVU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-23" value="Manual response draws out recovery time because operators are unable to remotely close the breakers, requiring workers to manually close breakers at each substation." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="260" width="345" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-25" target="P1DnXNQam8rRqI48JGVU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-25" value="Power outage was not able to restore and recover within a short period of time after the attacks.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="172" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="172" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-33" value="" style="shape=or;whiteSpace=wrap;html=1;direction=south;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="340" width="37.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
