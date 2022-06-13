@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T06:02:45.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5093.0 Safari/537.36 Edg/104.0.1278.2" etag="UWoXseHWlCIhnaPT5jju" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T06:07:54.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5093.0 Safari/537.36 Edg/104.0.1278.2" etag="UHFB3V-GgzaFcH0vod6w" version="20.0.0" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="2381" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4920" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,11 @@
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-35" value="" style="shape=or;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="-220.01" y="720" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-79" value="Probably lead to latent causes : RME #8 and RME #2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-XqhcZVIJDEOVzyIAh-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-905.0049999999997" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-38" value="BlackEnergy 3 malware resided and executed in employee workstations and coroporate network in the power distribution companies from June 2015 - Decemebr 2015, without being detected and possibility of being removed." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1110" y="810" width="409.99" height="70" as="geometry" />
         </mxCell>
@@ -216,8 +221,23 @@
         <mxCell id="2SJyx_yaQaZRMI3gNAbi-47" value="Latent Cause : RME #9 - EC&amp;amp;T" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-739.6700000000001" y="1660" width="171.87" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-81" value="Probably lead to latent causes : RME #2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20.625" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2SJyx_yaQaZRMI3gNAbi-49" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;There are no network-based antivirus solution to detect and prevent known malware from entering the organization&#39;s network.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1320" width="281.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346.8800000000001" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-83" value="Probably lead to latent causes : RME #2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2SJyx_yaQaZRMI3gNAbi-82">
+          <mxGeometry x="-0.2292" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2SJyx_yaQaZRMI3gNAbi-51" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;There are no anti-spam solution to screen incoming emails for suspicious content&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="231.88" y="1320" width="230" height="50" as="geometry" />
@@ -277,6 +297,11 @@
         </mxCell>
         <mxCell id="2SJyx_yaQaZRMI3gNAbi-60" value="Btao732 version" style="swimlane;" vertex="1" parent="2SJyx_yaQaZRMI3gNAbi-61">
           <mxGeometry width="400" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-80" value="Probably lead to latent causes : RME #2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-314.9949999999999" y="1280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2SJyx_yaQaZRMI3gNAbi-71" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;There are no application whitelisting to preven unknwon files from being executed&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-435.93" y="1150" width="241.87" height="40" as="geometry" />
