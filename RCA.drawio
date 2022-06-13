@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T20:25:12.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZxmnSPEjYvm541X3tumT" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T05:55:37.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5093.0 Safari/537.36 Edg/104.0.1278.2" etag="11jaZ__ApJfAAKO9ejd2" version="20.0.0" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="3362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3713" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,91 +85,168 @@
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j5-XqhcZVIJDEOVzyIAh-4" target="j5-XqhcZVIJDEOVzyIAh-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j5-XqhcZVIJDEOVzyIAh-4" value="Valid credentials for user with adminstrator prvilieges enalbed threat actors to expand access across the coroporate network in the power distribution companies and into the control environment, ensure persistent acess, and blend into regular network traffic." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j5-XqhcZVIJDEOVzyIAh-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Valid credentials for user with adminstrator prvilieges enabled threat actors to expand access across the coroporate network in the power distribution companies and into the control environment, ensure persistent acess, and blend into regular network traffic.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-380" y="380" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j5-XqhcZVIJDEOVzyIAh-8" target="j5-XqhcZVIJDEOVzyIAh-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j5-XqhcZVIJDEOVzyIAh-8" value="Valid credentials for user with adminstrator prvilieges were harvested and stolen by threat actors using BlackEnergy 3 &lt;b&gt;&lt;u&gt;malware plugins&lt;/u&gt;&lt;/b&gt;&amp;nbsp;or log keystrokes." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j5-XqhcZVIJDEOVzyIAh-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Valid credentials for user with adminstrator prvilieges were harvested and stolen by threat actors using BlackEnergy 3 &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;malware plugins&lt;/u&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;or log keystrokes.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-358.13" y="480" width="316.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j5-XqhcZVIJDEOVzyIAh-27" target="j5-XqhcZVIJDEOVzyIAh-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j5-XqhcZVIJDEOVzyIAh-27" value="Additional&amp;nbsp;&lt;u style=&quot;font-weight: bold;&quot;&gt;BlackEnergy 3 malware plugins&lt;/u&gt;&amp;nbsp;enalbed BlackEnergy 3 malware additional BlackEnergy functionality including harvesting user credentials, keylogging, and network reconnaissance." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j5-XqhcZVIJDEOVzyIAh-27" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Additional&amp;nbsp;&lt;/span&gt;&lt;u style=&quot;background-color: initial; font-weight: bold;&quot;&gt;BlackEnergy 3 malware plugins&lt;/u&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;enabled BlackEnergy 3 malware additional BlackEnergy functionality including harvesting user credentials, keylogging, and network reconnaissance.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-380.94" y="560" width="361.88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j5-XqhcZVIJDEOVzyIAh-30" target="j5-XqhcZVIJDEOVzyIAh-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j5-XqhcZVIJDEOVzyIAh-30" value="BlackEnergy 3 malware that was delievered in the inital attack functions as a receiver for additional malware plugins. Additional malware plugins were delievered by threat actors after establishing a remote connection." style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="j5-XqhcZVIJDEOVzyIAh-30" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BlackEnergy 3 malware that was delievered in the inital attack functions as a receiver for additional malware plugins. Additional malware plugins were delievered by threat actors after establishing a remote connection.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-410.01" y="640" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j5-XqhcZVIJDEOVzyIAh-35" target="j5-XqhcZVIJDEOVzyIAh-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-XqhcZVIJDEOVzyIAh-35" target="j5-XqhcZVIJDEOVzyIAh-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="760" />
+              <mxPoint x="-615" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-35" value="" style="shape=or;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="730" width="40" height="30" as="geometry" />
+          <mxGeometry x="-220.01" y="720" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-38" value="BlackEnergy 3 malware resided and executed in employee workstations and coroporate network in the power distribution companies from June 2015 - Decemebr 2015, without being detected and possibility of being removed." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="980" width="409.99" height="70" as="geometry" />
+          <mxGeometry x="-820" y="790" width="409.99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j5-XqhcZVIJDEOVzyIAh-40" target="j5-XqhcZVIJDEOVzyIAh-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j5-XqhcZVIJDEOVzyIAh-40" value="Threat actors established external connection that granted threat actors to gain unauthorized access to targeted networks, including the ability to deliver additional BlackEnergy plugins." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="810" width="460.01" height="60" as="geometry" />
+        <mxCell id="j5-XqhcZVIJDEOVzyIAh-40" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Threat actors established external connection that granted threat actors to gain unauthorized access to targeted networks, including the ability to deliver additional BlackEnergy plugins.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-375.01" y="790" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j5-XqhcZVIJDEOVzyIAh-42" target="j5-XqhcZVIJDEOVzyIAh-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j5-XqhcZVIJDEOVzyIAh-42" value="The external connection established as part of the execution routine (malicious VBA script that installs the malware implant, i.e, BlackEnergy 3) following installation of the malicious files.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="910" width="350.01" height="50" as="geometry" />
+        <mxCell id="j5-XqhcZVIJDEOVzyIAh-42" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The external connection established as part of the execution routine (malicious VBA script that installs the malware implant, i.e, BlackEnergy 3) following installation of the malicious files.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-375.01" y="890" width="350.01" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j5-XqhcZVIJDEOVzyIAh-44" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-234.995" y="1000" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JpI_4GdrFMeCXRrGEaUX-11" value="emails with malicious attachments were sent to the individuals in the organization&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="440" width="340" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JpI_4GdrFMeCXRrGEaUX-12" value="&amp;nbsp;the employees did not aware of the danger of the phishing emails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-885" y="550" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JpI_4GdrFMeCXRrGEaUX-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" target="JpI_4GdrFMeCXRrGEaUX-12" parent="1" source="JpI_4GdrFMeCXRrGEaUX-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-771" y="372.5" as="sourcePoint" />
-            <mxPoint x="-880" y="482.5" as="targetPoint" />
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-XqhcZVIJDEOVzyIAh-44" target="2SJyx_yaQaZRMI3gNAbi-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-200" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpI_4GdrFMeCXRrGEaUX-14" value="The employees did not have enough awareness training in terms of phishing emails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-915" y="690" width="290" height="60" as="geometry" />
+        <mxCell id="j5-XqhcZVIJDEOVzyIAh-44" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The malicious VBA script executed instructions, and installs the BlackEnergy 3 malware implant. The BlackEnergy 3 malware implant attempts to communicate with threat actors&#39; CC server via HTTP requests, unbeknwon to the employee.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-375.01" y="970" width="350.01" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JpI_4GdrFMeCXRrGEaUX-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="JpI_4GdrFMeCXRrGEaUX-14" parent="1" source="JpI_4GdrFMeCXRrGEaUX-12">
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-3" target="2SJyx_yaQaZRMI3gNAbi-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Employees gave permission to execute macros after opening the weaponized MS Office email attachments.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-562.5" y="1150" width="292.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Weaponized MS Office documents with malicious VBA script were delivered via innocuous-looking emails to individuals in the corporate network of the power distribution companies, without being detected, blocked or removed.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1150" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-9" target="2SJyx_yaQaZRMI3gNAbi-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-9" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Employees were unaware the underlying malicious VBA scripts embedd in the weaponlized MS Office files.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1220" width="305" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-11" target="2SJyx_yaQaZRMI3gNAbi-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="1120" />
+              <mxPoint x="-80" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-11" target="2SJyx_yaQaZRMI3gNAbi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-11" value="" style="shape=or;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="1060" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-31" target="2SJyx_yaQaZRMI3gNAbi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-31" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Employees did not investgate, or did not report and ask for investigation on the content of MS Office files when MS Office ask for permission to enable macro.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-572.5" y="1290" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-33" target="2SJyx_yaQaZRMI3gNAbi-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-33" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Employees were unaware the potential risks and series of consequences after enable macro without clearly knowing the content in MS Office files and instructions of the VBA scripts.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-582.5" y="1370" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-35" target="2SJyx_yaQaZRMI3gNAbi-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-35" value="&lt;div style=&quot;text-align: justify;&quot;&gt;Employees did not understand the functionality of advance features and their capability in MS Office (particularly, macro and VBA), and did not aware that they can lead to serious security issues.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-613.76" y="1440" width="392.51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-37" target="2SJyx_yaQaZRMI3gNAbi-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-37" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Employees did not receive enough posistion-specific cyber security awareness training regarding receving handling MS Office files.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-597.51" y="1510" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-45" target="2SJyx_yaQaZRMI3gNAbi-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-45" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-477.5" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-47" value="Latent Cause : RME #9 - EC&amp;amp;T" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-503.43" y="1670" width="171.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-49" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;There are no network-based antivirus solution to detect and prevent known malware from entering the organization&#39;s network.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-241.88" y="1280" width="281.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-51" value="There are n anti-spam solution to screen incoming emails for suspicious content&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1280" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-52" value="" style="shape=or;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-59.06" y="1230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-53" value="emails with malicious attachments were sent to the individuals in the organization&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="1155" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-54" value="&amp;nbsp;the employees did not aware of the danger of the phishing emails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-965" y="1245" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-53" target="2SJyx_yaQaZRMI3gNAbi-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-770" y="512.5" as="sourcePoint" />
-            <mxPoint x="-780" y="572.5" as="targetPoint" />
+            <mxPoint x="-851" y="1087.5" as="sourcePoint" />
+            <mxPoint x="-960" y="1197.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-56" value="The employees did not have enough awareness training in terms of phishing emails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-995" y="1345" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-54" target="2SJyx_yaQaZRMI3gNAbi-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-850" y="1227.5" as="sourcePoint" />
+            <mxPoint x="-860" y="1287.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpI_4GdrFMeCXRrGEaUX-16" value="RME #9: employee competency and training&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="800" width="340" height="60" as="geometry" />
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-58" value="RME #9: employee competency and training&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="1450" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JpI_4GdrFMeCXRrGEaUX-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-56" target="2SJyx_yaQaZRMI3gNAbi-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-770.5" y="750" as="sourcePoint" />
-            <mxPoint x="-770.5" y="800" as="targetPoint" />
+            <mxPoint x="-850.5" y="1465" as="sourcePoint" />
+            <mxPoint x="-850.5" y="1515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpI_4GdrFMeCXRrGEaUX-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j5-XqhcZVIJDEOVzyIAh-3" target="JpI_4GdrFMeCXRrGEaUX-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-260" y="600" as="sourcePoint" />
-            <mxPoint x="-210" y="550" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-330" y="360" />
-              <mxPoint x="-770" y="370" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-60" value="Btao732 version" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="1110" width="410" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
