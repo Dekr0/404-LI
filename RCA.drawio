@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T20:42:59.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5093.0 Safari/537.36 Edg/104.0.1278.2" etag="oESIkES7FoTp1icRPzPU" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T22:28:21.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5093.0 Safari/537.36 Edg/104.0.1278.2" etag="1tpgy3Ede_uFnifGGZ4o" version="20.0.1" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="2129" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4420" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,14 +613,38 @@
         <mxCell id="fkiNBbhDTrzq7KdLTFvP-13" value="RME#2 RA&amp;amp;MR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="895" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9jkZjqHAAnEb0GGMNLzz-1" value="Change C to P" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9jkZjqHAAnEb0GGMNLzz-1" value="Change C to P" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="880" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9jkZjqHAAnEb0GGMNLzz-2" value="Label technical terms (TDOS)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9jkZjqHAAnEb0GGMNLzz-2" value="Label technical terms (TDOS)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="600" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9jkZjqHAAnEb0GGMNLzz-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Include estimated dollar value loss in incident description.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9jkZjqHAAnEb0GGMNLzz-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Include estimated dollar value loss in incident description.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-200" y="40" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CrC3T0DACPD8JcMzKl_n-2" value="Need fix (Require a little more depth and detail) " style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="275.43" width="1300" height="584.57" as="geometry" />
+        </mxCell>
+        <mxCell id="CrC3T0DACPD8JcMzKl_n-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Prof comment : Not really relevant to RME #6 : PECI, instead RME #2 :&amp;nbsp; RA&amp;amp;RM&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CrC3T0DACPD8JcMzKl_n-2">
+          <mxGeometry x="945" y="549.14" width="270" height="25.43" as="geometry" />
+        </mxCell>
+        <mxCell id="CrC3T0DACPD8JcMzKl_n-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0.1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="CrC3T0DACPD8JcMzKl_n-4" target="j5-XqhcZVIJDEOVzyIAh-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-565" y="324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrC3T0DACPD8JcMzKl_n-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CrC3T0DACPD8JcMzKl_n-4" target="2SJyx_yaQaZRMI3gNAbi-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="1069" />
+              <mxPoint x="-400" y="1069" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrC3T0DACPD8JcMzKl_n-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Too depth ? Require re-arrangment&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="815.43" width="303.75" height="54.57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
