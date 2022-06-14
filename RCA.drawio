@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T23:59:31.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nPqyW3NKuelFuzEl-83o" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T00:03:31.714Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="14sJlRYO3t7c3eAuqvN1" version="20.0.1" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="3362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3962" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,7 +380,7 @@
         <mxCell id="pcgtMMzWnX6byRuWT80S-2" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="580" y="280" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="69rKDuXUG_CxITf-V3C--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pcgtMMzWnX6byRuWT80S-6" target="69rKDuXUG_CxITf-V3C--1">
+        <mxCell id="69rKDuXUG_CxITf-V3C--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pcgtMMzWnX6byRuWT80S-6" target="69rKDuXUG_CxITf-V3C--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pcgtMMzWnX6byRuWT80S-6" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Customers were unable to report the outage to power distribution company&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -392,13 +392,13 @@
         <mxCell id="pcgtMMzWnX6byRuWT80S-9" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The call-centers were under TDOS attack, where a large number of fake calls were flooding the telephone system, preventing a legitimate customer from getting through&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="590" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="69rKDuXUG_CxITf-V3C--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pcgtMMzWnX6byRuWT80S-11" target="69rKDuXUG_CxITf-V3C--4">
+        <mxCell id="69rKDuXUG_CxITf-V3C--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="pcgtMMzWnX6byRuWT80S-11" target="69rKDuXUG_CxITf-V3C--4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pcgtMMzWnX6byRuWT80S-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;There was no established call filtering system in place that can prevent malicious spam calls in times of emergency at both power distributor company&#39;s level and telecom service provider level&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;B-EDF : Inadequate technical design&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="801" y="705" width="280" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="pcgtMMzWnX6byRuWT80S-14" value="#3 CEAP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pcgtMMzWnX6byRuWT80S-14" value="RME#3 CEAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="800" y="970" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jEPKDABsU9l7TRJNIgtV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jEPKDABsU9l7TRJNIgtV-2" target="jEPKDABsU9l7TRJNIgtV-10" edge="1">
@@ -433,46 +433,46 @@
         <mxCell id="jEPKDABsU9l7TRJNIgtV-14" value="LC: The risk assessment program did not include evaluation of&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="226.1" y="1620" width="243.12" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-2" value="It is challenging to implement application whitelisting which is used to prevent such malware.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-2" value="It is challenging to implement application whitelisting which is used to prevent such malware.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="1270" width="240.01" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="69rKDuXUG_CxITf-V3C--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="69rKDuXUG_CxITf-V3C--1" target="pcgtMMzWnX6byRuWT80S-9">
+        <mxCell id="69rKDuXUG_CxITf-V3C--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="69rKDuXUG_CxITf-V3C--1" target="pcgtMMzWnX6byRuWT80S-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.521;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2SJyx_yaQaZRMI3gNAbi-71" target="3wR_iqf3RDHY0gBB5E3J-2">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.521;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2SJyx_yaQaZRMI3gNAbi-71" target="3wR_iqf3RDHY0gBB5E3J-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="1310" as="sourcePoint" />
             <mxPoint x="-315" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="69rKDuXUG_CxITf-V3C--1" value="&lt;span style=&quot;text-align: justify;&quot;&gt;The power distribution company&#39;s customer service call-center were non-operational&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="69rKDuXUG_CxITf-V3C--1" value="&lt;span style=&quot;text-align: justify;&quot;&gt;The power distribution company&#39;s customer service call-center were non-operational&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="480" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3wR_iqf3RDHY0gBB5E3J-5" target="3wR_iqf3RDHY0gBB5E3J-6">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3wR_iqf3RDHY0gBB5E3J-5" target="3wR_iqf3RDHY0gBB5E3J-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="69rKDuXUG_CxITf-V3C--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69rKDuXUG_CxITf-V3C--4" target="pcgtMMzWnX6byRuWT80S-14">
+        <mxCell id="69rKDuXUG_CxITf-V3C--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="69rKDuXUG_CxITf-V3C--4" target="pcgtMMzWnX6byRuWT80S-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-5" value="The expenses on the application whitelisting implementing will be high&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-5" value="The expenses on the application whitelisting implementing will be high&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-435.93" y="1390" width="235.93" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="69rKDuXUG_CxITf-V3C--4" value="LC#-C There was no emergency preparedness program for telecommunication system in emergency time regarding call-traffic volume management and spam call filtering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="69rKDuXUG_CxITf-V3C--4" value="LC#-C There was no emergency preparedness program for telecommunication system in emergency time regarding call-traffic volume management and spam call filtering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="801" y="870" width="279" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-6" value="The company did not recognize or access the risk&amp;nbsp; before the incident happened" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-6" value="The company did not recognize or access the risk&amp;nbsp; before the incident happened" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-435.93" y="1500" width="235.93" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="3wR_iqf3RDHY0gBB5E3J-5">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="3wR_iqf3RDHY0gBB5E3J-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-320" y="1330" as="sourcePoint" />
             <mxPoint x="-270" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-11" value="Latent cause: RME #2: Risk assessment and management of risks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-11" value="Latent cause: RME #2: Risk assessment and management of risks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-429.99" y="1590" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3wR_iqf3RDHY0gBB5E3J-11">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="3wR_iqf3RDHY0gBB5E3J-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-320" y="1540" as="sourcePoint" />
             <mxPoint x="-270" y="1490" as="targetPoint" />
