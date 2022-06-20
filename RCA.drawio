@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T22:37:06.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wV2PPDZsIOaagQHYc7WT" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T22:40:18.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4clsEc4bj-3p_haeNaPN" version="20.0.1" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
     <mxGraphModel dx="3362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -491,7 +491,7 @@
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-18" target="5wm-DWUxtDo4BaM8-Dd3-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-6" value="The risk assessment program did not include requirements for how the hazards would be without preventing unknown files&lt;br&gt;----------------------------------------------------------------&lt;br&gt;Latent cause: RME #2: Risk assessment and management of risks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-6" value="The risk assessment program did not include requirements for how the hazards would be without preventing unknown files&lt;br&gt;----------------------------------------------------------------&lt;br&gt;Latent cause: RME #2: Risk assessment and management of risks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="-425" y="1610" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-18" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The power distribution companies did not aware that BlackEnergy 3 malware existed in the corporate network.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -634,7 +634,7 @@
         <mxCell id="CrC3T0DACPD8JcMzKl_n-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Too depth ? Require re-arrangment&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-720" y="815.43" width="303.75" height="54.57" as="geometry" />
         </mxCell>
-        <mxCell id="Jr1dt4M5VPBUyu-Dkv2p-1" value="No one assessed the risk of not having application whitelist.&lt;br&gt;&lt;br&gt;BC-EDF: inadequate assessment of risk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="Jr1dt4M5VPBUyu-Dkv2p-1" value="No one assessed the risk of not having application whitelist.&lt;br&gt;&lt;br&gt;BC-EDF: inadequate assessment of risk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="-425" y="1490" width="226.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jr1dt4M5VPBUyu-Dkv2p-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3wR_iqf3RDHY0gBB5E3J-5">
