@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T21:14:48.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="X_yjyNb4PPGzZZ2mRsB2" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T21:27:53.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="m8qSq-tdJyedDefPB_bo" version="20.0.1" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="2978" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2718" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,7 +401,7 @@
         <mxCell id="69rKDuXUG_CxITf-V3C--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="pcgtMMzWnX6byRuWT80S-11" target="69rKDuXUG_CxITf-V3C--4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcgtMMzWnX6byRuWT80S-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;There was no established call filtering system in place that can prevent malicious spam calls in times of emergency at both power distributor company&#39;s level and telecom service provider level&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;B-EDF : Inadequate technical design&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="pcgtMMzWnX6byRuWT80S-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;There was no established call filtering system in place that can prevent malicious spam calls in times of emergency at both power distributor company&#39;s level and telecom service provider level&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;B-EDF :&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Inadequate assessment of operational readiness&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="801" y="705" width="280" height="115" as="geometry" />
         </mxCell>
         <mxCell id="pcgtMMzWnX6byRuWT80S-14" value="RME#3 CEAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -643,7 +643,7 @@
         <mxCell id="CrC3T0DACPD8JcMzKl_n-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Too depth ? Require re-arrangment&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-720" y="815.43" width="303.75" height="54.57" as="geometry" />
         </mxCell>
-        <mxCell id="Jr1dt4M5VPBUyu-Dkv2p-1" value="The company did not want to put much effort on developing application whitelisting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jr1dt4M5VPBUyu-Dkv2p-1" value="The company did not want to put much effort on developing application whitelisting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-425" y="1495" width="226.25" height="60" as="geometry" />
         </mxCell>
       </root>
