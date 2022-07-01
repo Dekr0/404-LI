@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T02:34:40.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Lgo9fX8rrDtJ1X_cUniq" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T22:18:26.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="qXZuX4l1JESX1i8M66ph" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="4212" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4150" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-206" y="1120" />
-              <mxPoint x="182" y="1120" />
+              <mxPoint x="484" y="1120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -635,7 +635,7 @@
         <mxCell id="S55bJ3x7l86Opy5cK2Di-20" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-840" y="1600" width="376.64" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2SJyx_yaQaZRMI3gNAbi-45" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC1-S : The cyber security awareness training program did not include specific procedures and cautions for receving and handling MS Office files (or more generally, any types of files from the internet).&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-20" vertex="1">
+        <mxCell id="2SJyx_yaQaZRMI3gNAbi-45" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC1-S : The cyber security awareness training program did not include specific procedures and cautions for receiving&amp;nbsp;and handling MS Office files (or more generally, any types of files from the internet).&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-20" vertex="1">
           <mxGeometry width="376.64000000000004" height="57.14285714285714" as="geometry" />
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;RME #9 ECT&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-20" vertex="1">
@@ -682,7 +682,7 @@
         <mxCell id="FllZFn1e7CsPc6dMasNk-4" value="The network was not updated to be more secure." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="1495" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hR6kdUVvMyrqL5kBoMIG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FllZFn1e7CsPc6dMasNk-10" target="FllZFn1e7CsPc6dMasNk-11">
+        <mxCell id="hR6kdUVvMyrqL5kBoMIG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FllZFn1e7CsPc6dMasNk-10" target="FllZFn1e7CsPc6dMasNk-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FllZFn1e7CsPc6dMasNk-10" value="The standard and design was outdated." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -821,7 +821,7 @@
         <mxCell id="u-A6xDZNOoiBl20y27jn-58" value="&lt;div style=&quot;text-align: justify;&quot;&gt;RME #2 RA &amp;amp; MR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="u-A6xDZNOoiBl20y27jn-56" vertex="1">
           <mxGeometry y="50" width="302.57" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="hR6kdUVvMyrqL5kBoMIG-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FllZFn1e7CsPc6dMasNk-18" target="3wR_iqf3RDHY0gBB5E3J-5">
+        <mxCell id="hR6kdUVvMyrqL5kBoMIG-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FllZFn1e7CsPc6dMasNk-18" target="3wR_iqf3RDHY0gBB5E3J-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-150" y="1690" as="sourcePoint" />
             <mxPoint x="-100" y="1640" as="targetPoint" />
@@ -831,7 +831,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hR6kdUVvMyrqL5kBoMIG-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="FllZFn1e7CsPc6dMasNk-4">
+        <mxCell id="hR6kdUVvMyrqL5kBoMIG-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="FllZFn1e7CsPc6dMasNk-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210" y="1460" as="sourcePoint" />
             <mxPoint x="-330" y="1510" as="targetPoint" />
