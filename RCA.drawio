@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T02:07:39.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CKXjK6--vcvcAKYRY5X9" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T02:20:27.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="u6_LQWBaLgf01lYfidLQ" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
     <mxGraphModel dx="4212" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -477,10 +477,10 @@
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3wR_iqf3RDHY0gBB5E3J-16" target="5wm-DWUxtDo4BaM8-Dd3-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-16" value="The company did not require the employees to do so." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-16" value="Checking for the hidden was not required in the maintenance working procedure." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2020" y="1345" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-17" value="No one followed the operations schedule for checking for hidden.&lt;br&gt;BC: JF: inadequate maintanence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-17" value="The&amp;nbsp;&lt;br&gt;BC: JF: inadequate maintenance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="-2138.75" y="1605" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3wR_iqf3RDHY0gBB5E3J-19" target="mT-OK7VVdEZFURRxMBzH-4" edge="1">
@@ -491,7 +491,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-19" value="The company failed to evaluate the danger of malwares." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-19" value="The evaluation of danger of malwares was filed." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1850.32" y="1650" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3wR_iqf3RDHY0gBB5E3J-27" value="The operation program did not include a procedure to check for malwares.&lt;br&gt;------------------------------------------------------------------&lt;br&gt;RME #8: Operations and maintenance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
@@ -544,7 +544,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-50" value="" style="shape=or;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
-          <mxGeometry x="-1965" y="1495" width="80" height="60" as="geometry" />
+          <mxGeometry x="-1965" y="1440" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fkiNBbhDTrzq7KdLTFvP-3" value="The attackers wrote custom malicious firmware and render the devices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="605.43" width="290" height="54.57" as="geometry" />
