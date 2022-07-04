@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T23:39:09.885Z" agent="5.0 (Windows)" etag="9xjcwdoY-03_StYsft42" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T23:46:17.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wfkqqocng5B3TObnj5fu" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="4758" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5149" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1029,6 +1029,9 @@
         <mxCell id="WKTd3QbipZGCncqH9b7c-18" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.42105263157894735;" parent="1" vertex="1">
           <mxGeometry x="945" y="2087.5" width="80" height="40.46" as="geometry" />
         </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKTd3QbipZGCncqH9b7c-26" target="VrxwhniAfhhTzYhs1oCO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-26" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Firmware of Moxa UC 7408-LX-Plus included vulnerability of CVE-2014-6271 in GNU Bash 4.3. GNU Bash 4.3&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processes trailing strings after function definitions in the values of environment variables, which&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;allows remote attackers to execute arbitrary code via a crafted environment.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I-SC : Software bugs&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-347" y="2226.12" width="370" height="102.5" as="geometry" />
         </mxCell>
@@ -1131,25 +1134,101 @@
         <mxCell id="WKTd3QbipZGCncqH9b7c-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-100" y="1183.5699999999997" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-1" target="VrxwhniAfhhTzYhs1oCO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U2j2k8TPkj8ATeqe2vbl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U2j2k8TPkj8ATeqe2vbl-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1849.7777777777774" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-1" value="The software bugs were tricky and cannot be found easily." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150.88" y="2570" width="160" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="U2j2k8TPkj8ATeqe2vbl-3" value="There is no constant improvement in cybersecurity development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1750" y="1357.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-2" target="VrxwhniAfhhTzYhs1oCO-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U2j2k8TPkj8ATeqe2vbl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2j2k8TPkj8ATeqe2vbl-6" target="U2j2k8TPkj8ATeqe2vbl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-2" value="The software bugs were not found during the regular maintenance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-145.88" y="2480" width="150" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="U2j2k8TPkj8ATeqe2vbl-6" value="Cybersecurity system could not stop the malware " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1750" y="1262" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-3" target="VrxwhniAfhhTzYhs1oCO-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U2j2k8TPkj8ATeqe2vbl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2j2k8TPkj8ATeqe2vbl-8" target="U2j2k8TPkj8ATeqe2vbl-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-3" value="The bugs were found but not reported" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="2480" width="140" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="U2j2k8TPkj8ATeqe2vbl-8" value="The system could not detect the malware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1750" y="1160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-4" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-187" y="2370" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.444;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.57;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-4" target="VrxwhniAfhhTzYhs1oCO-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="2400" as="sourcePoint" />
+            <mxPoint x="470" y="2350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-165" y="2440" />
+              <mxPoint x="-60" y="2440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="VrxwhniAfhhTzYhs1oCO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="2440" as="sourcePoint" />
+            <mxPoint x="470" y="2430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-270" y="2440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-10" target="VrxwhniAfhhTzYhs1oCO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-10" value="The maintenance was not deep enough to find all bugs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-133.6" y="2660" width="125.44" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-13" target="VrxwhniAfhhTzYhs1oCO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-13" value="The standard of the maintenance program did not require the depth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-143.82" y="2740" width="145.88" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-15" value="LC-S: The maintenance program did not include a standard of bug investigation&lt;br&gt;--------------------------------------RME #8: O &amp;amp; M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="-148.23" y="2820" width="154.69" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-18" target="VrxwhniAfhhTzYhs1oCO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-18" value="The bug probably will not be able to be solved soon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-19" target="VrxwhniAfhhTzYhs1oCO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-19" value="The Moxa firmware was developed by another company" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="2700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-22" target="VrxwhniAfhhTzYhs1oCO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-22" value="The standard for reporting bugs from other companies&#39; products was not specified&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="2810" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-24" value="LC-S: The reporting program did not include specific criteria that any bug, no matter who developed the product, must be reported&lt;br&gt;---------------------------------------RME #5: IRIAA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="2930" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
