@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T02:33:19.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="00O6ZAE_L0UrTgsomBFR" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T02:51:26.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OIXy-Y96Q8B1XL4_xdVK" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="5355" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5478" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,10 +308,10 @@
           <mxGeometry x="-1586.09" y="894.5699999999999" width="241.87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sjo7R-AdnhrPDmtwOU3n-20" value="LC#-S: The risk management program does not enforce an adequate standard for cyber-security development" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1712.5" y="1614.5" width="170" height="60" as="geometry" />
+          <mxGeometry x="1800" y="1430" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sjo7R-AdnhrPDmtwOU3n-22" value="#6 PECI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1712.5" y="1674.5" width="170" height="60" as="geometry" />
+          <mxGeometry x="1800" y="1490" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pcgtMMzWnX6byRuWT80S-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="pcgtMMzWnX6byRuWT80S-2" target="pcgtMMzWnX6byRuWT80S-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -859,8 +859,8 @@
         <mxCell id="tI6YTJ1I8yG588Ly_Qp0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tI6YTJ1I8yG588Ly_Qp0-25" target="tI6YTJ1I8yG588Ly_Qp0-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tI6YTJ1I8yG588Ly_Qp0-25" value="There was no designated team in charge of relevant incident investigation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="1205" y="1024.14" width="210" height="50.43" as="geometry" />
+        <mxCell id="tI6YTJ1I8yG588Ly_Qp0-25" value="There was no designated team in charge of relevant incident investigation&amp;nbsp;&lt;br&gt;BC: EDF inadequate evaluation of another relevant loss incident" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="1202.5" y="1021.2100000000002" width="215" height="65.86" as="geometry" />
         </mxCell>
         <mxCell id="tI6YTJ1I8yG588Ly_Qp0-27" value="LC-P: There was no program doing work about relevant incident investigation&lt;br&gt;-----------------------------------------------------RME #5: Incident reporting, investigation, analysis and action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="1192.5" y="1115" width="235" height="85" as="geometry" />
