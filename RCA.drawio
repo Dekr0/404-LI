@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T02:51:26.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OIXy-Y96Q8B1XL4_xdVK" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T02:56:59.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="b6Q256AmPMw1MZV9OcPr" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="5478" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4678" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,7 +307,7 @@
         <mxCell id="2SJyx_yaQaZRMI3gNAbi-71" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;There are no application whitelisting to prevent unknown files from being executed&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1586.09" y="894.5699999999999" width="241.87" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sjo7R-AdnhrPDmtwOU3n-20" value="LC#-S: The risk management program does not enforce an adequate standard for cyber-security development" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sjo7R-AdnhrPDmtwOU3n-20" value="LC#-S: The evaluation program does not enforce an adequate standard for cyber-security development" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1800" y="1430" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sjo7R-AdnhrPDmtwOU3n-22" value="#6 PECI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
