@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T20:15:57.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="jGQ8Exxx_HgttqbJIEds" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T20:41:09.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="oNHULZ4-lmq3PmQLsKxi" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="4891" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4241" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -926,7 +926,7 @@
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-65" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Two models of serial-to-ethernet converters with different degree of vulnerabilities were selected and used within the control environment.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;I-SP : Use of Tools or Equipment (good equipment available)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="840" y="1951" width="290" height="102.5" as="geometry" />
         </mxCell>
-        <mxCell id="9AnfHlbfWIQ67jcDiBTo-70" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The vulnerabilities in&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;Moxa UC 7408-LX-Plus and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IRZ RUH2 3G were reported&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9AnfHlbfWIQ67jcDiBTo-70" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The vulnerabilities in&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;Moxa UC 7408-LX-Plus were identified, reported and published in national vulnerability database on September, 2014. The&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="445.03" y="1940" width="320" height="58.25" as="geometry" />
         </mxCell>
         <mxCell id="7Qgy7_eOm5iBgqSPM_gX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7Qgy7_eOm5iBgqSPM_gX-1" target="7Qgy7_eOm5iBgqSPM_gX-5" edge="1">
@@ -955,6 +955,9 @@
         </mxCell>
         <mxCell id="7Qgy7_eOm5iBgqSPM_gX-9" value="LC-P: The potential hazards was not evaluate properly by the risk management program&lt;br&gt;-------------------------------------------------------------RME#2: RA &amp;amp; MA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="1475.63" y="1448.57" width="248.75" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WKTd3QbipZGCncqH9b7c-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKTd3QbipZGCncqH9b7c-2" target="WKTd3QbipZGCncqH9b7c-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-2" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-624.38" y="2122.0699999999997" width="36.88" height="47.5" as="geometry" />
@@ -1034,6 +1037,9 @@
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-28" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Firmware of Moxa UC&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;Moxa UC 7408-LX-Plus included vulnerability of CVE-2014-7186 and CVE-2014-7187 in GNU Bash 4.3, Several implementation in parse.y in GNU Bash 4.3 allows remote attackers to cause a denial of service or possibly have unspecified other impact.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;I-SC : Software bugs&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="44.56" y="2226.12" width="380" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WKTd3QbipZGCncqH9b7c-38" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;There are no information classification program implemented to categorize critical system information that could be used by a threat actor, and to prevent sensitive information be publicly available or to establish restricted distribution.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;B-? : ?&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="2235" width="400" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
