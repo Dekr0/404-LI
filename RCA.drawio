@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T20:07:44.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="G66AbXfWI6PtI_e1Boge" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T20:15:57.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="jGQ8Exxx_HgttqbJIEds" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="5078" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4891" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -857,71 +857,65 @@
           <mxGeometry x="1192.5" y="1115" width="235" height="85" as="geometry" />
         </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Threat actors enumerated and identified all the network devices, which includes the serial-to-ethernet converters and their specification, within the control environment.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1175.38" y="1484.0699999999997" width="269.25" height="55" as="geometry" />
+          <mxGeometry x="1200" y="1939.9999999999995" width="269.25" height="55" as="geometry" />
         </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9AnfHlbfWIQ67jcDiBTo-1" target="9AnfHlbfWIQ67jcDiBTo-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WKTd3QbipZGCncqH9b7c-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AnfHlbfWIQ67jcDiBTo-1" target="9AnfHlbfWIQ67jcDiBTo-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="1880" />
+              <mxPoint x="1335" y="1880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Threat actors developed dedicated malicious firmware for the targeted serial-to-ethernet converters models&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Moxa UC 7408-LX-Plus and IRZ RUH2 3G)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;used in the power distribution companies, and perform some level of prior testing to ensure its capability.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="382.5" y="1288.57" width="422" height="60" as="geometry" />
+          <mxGeometry x="394.03" y="1762.5" width="422" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9AnfHlbfWIQ67jcDiBTo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9AnfHlbfWIQ67jcDiBTo-35" target="9AnfHlbfWIQ67jcDiBTo-11" edge="1">
+        <mxCell id="WKTd3QbipZGCncqH9b7c-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AnfHlbfWIQ67jcDiBTo-35" target="9AnfHlbfWIQ67jcDiBTo-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="594" y="1420" />
-              <mxPoint x="1310" y="1420" />
+              <mxPoint x="605" y="1880" />
+              <mxPoint x="-606" y="1880" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9AnfHlbfWIQ67jcDiBTo-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9AnfHlbfWIQ67jcDiBTo-35" target="9AnfHlbfWIQ67jcDiBTo-41" edge="1">
+        <mxCell id="WKTd3QbipZGCncqH9b7c-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AnfHlbfWIQ67jcDiBTo-35" target="9AnfHlbfWIQ67jcDiBTo-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="594" y="1420" />
-              <mxPoint x="230" y="1420" />
+              <mxPoint x="605" y="1880" />
+              <mxPoint x="42" y="1880" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9AnfHlbfWIQ67jcDiBTo-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9AnfHlbfWIQ67jcDiBTo-35" target="9AnfHlbfWIQ67jcDiBTo-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="594" y="1420" />
-              <mxPoint x="-134" y="1420" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WKTd3QbipZGCncqH9b7c-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AnfHlbfWIQ67jcDiBTo-35" target="9AnfHlbfWIQ67jcDiBTo-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9AnfHlbfWIQ67jcDiBTo-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9AnfHlbfWIQ67jcDiBTo-35" target="9AnfHlbfWIQ67jcDiBTo-65" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="802.5" y="1618.57" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="594" y="1420" />
-              <mxPoint x="985" y="1420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9AnfHlbfWIQ67jcDiBTo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9AnfHlbfWIQ67jcDiBTo-35" target="9AnfHlbfWIQ67jcDiBTo-70" edge="1">
+        <mxCell id="WKTd3QbipZGCncqH9b7c-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AnfHlbfWIQ67jcDiBTo-35" target="9AnfHlbfWIQ67jcDiBTo-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="594" y="1420" />
-              <mxPoint x="660" y="1420" />
+              <mxPoint x="605" y="1880" />
+              <mxPoint x="985" y="1880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-35" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="578.5" y="1361.4999999999998" width="30" height="40" as="geometry" />
+          <mxGeometry x="590.03" y="1835.4299999999998" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9AnfHlbfWIQ67jcDiBTo-41" target="WKTd3QbipZGCncqH9b7c-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-41" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Both Moxa UC 7408-LX-Plus and IRZ RUH2 3G&amp;nbsp;have different degree of vulnerabilities (The former one have more number of vulnerabilities than the latter one).&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="1578.8799999999999" width="335" height="53.5" as="geometry" />
+          <mxGeometry x="-125.44" y="1999.9999999999998" width="335" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AnfHlbfWIQ67jcDiBTo-45" target="WKTd3QbipZGCncqH9b7c-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-133.1199999999999" y="1710" as="targetPoint" />
+            <mxPoint x="-605.9399999999998" y="2133.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-45" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The source code of Moxa UC 7408-LX-Plus are publicly available, which allows the threat actors to directly examine its architecture and vulnerabilities.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I-SC : Missing / Lack of safeguards / control measures&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-317.18" y="1576.5" width="368.12" height="87.5" as="geometry" />
+          <mxGeometry x="-790" y="2000" width="368.12" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-50" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Remark : All attack steps in this scope were done after BlackEnergy3 and related additional plugins were installed, and resided in the corporate network. For more information about that, please read the branch outside this scope&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="244.99" width="340" height="100" as="geometry" />
@@ -930,10 +924,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-65" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Two models of serial-to-ethernet converters with different degree of vulnerabilities were selected and used within the control environment.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;I-SP : Use of Tools or Equipment (good equipment available)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="840" y="1461.07" width="290" height="102.5" as="geometry" />
+          <mxGeometry x="840" y="1951" width="290" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-70" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The vulnerabilities in&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;Moxa UC 7408-LX-Plus and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IRZ RUH2 3G were reported&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="484.5" y="1576.5" width="320" height="58.25" as="geometry" />
+          <mxGeometry x="445.03" y="1940" width="320" height="58.25" as="geometry" />
         </mxCell>
         <mxCell id="7Qgy7_eOm5iBgqSPM_gX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7Qgy7_eOm5iBgqSPM_gX-1" target="7Qgy7_eOm5iBgqSPM_gX-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -963,32 +957,32 @@
           <mxGeometry x="1475.63" y="1448.57" width="248.75" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-2" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-151.56" y="1698.57" width="36.88" height="47.5" as="geometry" />
+          <mxGeometry x="-624.38" y="2122.0699999999997" width="36.88" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKTd3QbipZGCncqH9b7c-4" target="WKTd3QbipZGCncqH9b7c-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1149.6799999999998" y="1800" as="targetPoint" />
+            <mxPoint x="1149.6799999999998" y="2277.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vulnerabilities and structures in Moxa UC 7408-LX-Plus and IRZ RUH2 3G were not well understand.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="992.18" y="1717.5" width="315" height="40" as="geometry" />
+          <mxGeometry x="992.18" y="2195" width="315" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKTd3QbipZGCncqH9b7c-6" target="WKTd3QbipZGCncqH9b7c-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-6" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vulnerabilities in&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;Moxa UC 7408-LX-Plus and IRZ RUH2 3G were not identified.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015.3100000000001" y="1780" width="268.75" height="40" as="geometry" />
+          <mxGeometry x="1015.3100000000001" y="2257.5" width="268.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKTd3QbipZGCncqH9b7c-8" target="WKTd3QbipZGCncqH9b7c-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1149.684999999999" y="1940" as="targetPoint" />
+            <mxPoint x="1149.684999999999" y="2417.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The existence vulnerabilities in&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;Moxa UC 7408-LX-Plus and IRZ RUH2 3G was not assessed.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;BC-EDF : Inadequate assessment of loss exposure / risk / hazards.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="960.0000000000001" y="1840" width="379.37" height="62.5" as="geometry" />
+          <mxGeometry x="960.0000000000001" y="2317.5" width="379.37" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="996.1899999999999" y="1940" width="305.99" height="80" as="geometry" />
+          <mxGeometry x="996.1899999999999" y="2417.5" width="305.99" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC#-S : The risk assessment program does not include evaluation of the security and reliability of serial-to-ethernet converters.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WKTd3QbipZGCncqH9b7c-13">
           <mxGeometry x="0.12957231270357852" width="305.8604276872964" height="44" as="geometry" />
@@ -996,40 +990,50 @@
         <mxCell id="WKTd3QbipZGCncqH9b7c-12" value="RME#2 RA &amp;amp; MR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WKTd3QbipZGCncqH9b7c-13">
           <mxGeometry y="44" width="305.99" height="35.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="WKTd3QbipZGCncqH9b7c-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WKTd3QbipZGCncqH9b7c-15" target="WKTd3QbipZGCncqH9b7c-26">
+        <mxCell id="WKTd3QbipZGCncqH9b7c-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKTd3QbipZGCncqH9b7c-15" target="WKTd3QbipZGCncqH9b7c-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="152.99999999999955" y="1746.0699999999997" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="237" y="1720" />
-              <mxPoint x="155" y="1720" />
+              <mxPoint x="41.56" y="2141.12" />
+              <mxPoint x="244.56" y="2141.12" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WKTd3QbipZGCncqH9b7c-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WKTd3QbipZGCncqH9b7c-15" target="WKTd3QbipZGCncqH9b7c-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="41.56" y="2141.12" />
+              <mxPoint x="-162.44" y="2141.12" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-15" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-180;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="1661.07" width="50" height="37.5" as="geometry" />
+          <mxGeometry x="17.060000000000002" y="2082.1899999999996" width="50" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKTd3QbipZGCncqH9b7c-18" target="WKTd3QbipZGCncqH9b7c-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="985" y="1680" />
-              <mxPoint x="1150" y="1680" />
+              <mxPoint x="985" y="2157.5" />
+              <mxPoint x="1150" y="2157.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WKTd3QbipZGCncqH9b7c-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="1722.5" as="targetPoint" />
+            <mxPoint x="860" y="2200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="985" y="1680" />
-              <mxPoint x="860" y="1680" />
+              <mxPoint x="985" y="2157.5" />
+              <mxPoint x="860" y="2157.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-18" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.42105263157894735;" vertex="1" parent="1">
-          <mxGeometry x="945" y="1610" width="80" height="40.46" as="geometry" />
+          <mxGeometry x="945" y="2087.5" width="80" height="40.46" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-26" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Firmware of Moxa UC 7408-LX-Plus included vulnerability of CVE-2014-6271 in GNU Bash 4.3. GNU Bash 4.3&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processes trailing strings after function definitions in the values of environment variables, which&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;allows remote attackers to execute arbitrary code via a crafted environment.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I-SC : Software bugs&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1790" width="370" height="102.5" as="geometry" />
+          <mxGeometry x="-347" y="2226.12" width="370" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WKTd3QbipZGCncqH9b7c-28" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Firmware of Moxa UC&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;Moxa UC 7408-LX-Plus included vulnerability of CVE-2014-7186 and CVE-2014-7187 in GNU Bash 4.3, Several implementation in parse.y in GNU Bash 4.3 allows remote attackers to cause a denial of service or possibly have unspecified other impact.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;I-SC : Software bugs&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="44.56" y="2226.12" width="380" height="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
