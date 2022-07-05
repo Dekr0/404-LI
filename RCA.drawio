@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T03:06:52.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="SAds4v3gKbF1mzgIAxJh" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T03:08:35.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5HG96isN9xJjZZwDHNbm" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="4583" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5774" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,7 +430,7 @@
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-18" target="5wm-DWUxtDo4BaM8-Dd3-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-6" value="LC-S: The risk assessment program did not include requirements for how the hazards would be without preventing unknown files&lt;br&gt;----------------------------------------------------------------&lt;br&gt;Latent cause: RME #2: Risk assessment and management of risks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-6" value="LC2-S: The risk assessment program did not include requirements for how the hazards would be without preventing unknown files&lt;br&gt;----------------------------------------------------------------&lt;br&gt;Latent cause: RME #2: Risk assessment and management of risks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1670" y="1386.07" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-18" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The power distribution companies did not aware that BlackEnergy 3 malware existed in the corporate network.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -462,7 +462,7 @@
         <mxCell id="3wR_iqf3RDHY0gBB5E3J-19" value="The evaluation of danger of malwares was filed." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2990.3199999999997" y="1662.5" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-27" value="LC-S: The maintenance program did not include a procedure for regular checking of hidden&lt;br&gt;------------------------------------------------------------------&lt;br&gt;RME #8: Operations and maintenance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-27" value="LC1-S: The maintenance program did not include a procedure for regular checking of hidden&lt;br&gt;------------------------------------------------------------------&lt;br&gt;RME #8: Operations and maintenance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-3320" y="1717.5" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-35" target="u-A6xDZNOoiBl20y27jn-18" edge="1">
@@ -541,13 +541,13 @@
         <mxCell id="mT-OK7VVdEZFURRxMBzH-4" value="The risk of having malwares was not assessed.&lt;br&gt;&lt;br&gt;BC-EDF: inadequate assessment of risk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-3027.8199999999997" y="1777.5" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mT-OK7VVdEZFURRxMBzH-6" value="&lt;span style=&quot;&quot;&gt;LC-S: The risk assessment program did not include evaluation of likelihood and consequences of malwares.&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;-------------------------------------------------------------------------------------&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Latent cause: RME #2: Risk assessment and management of risks&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="mT-OK7VVdEZFURRxMBzH-6" value="&lt;span style=&quot;&quot;&gt;LC2-S: The risk assessment program did not include evaluation of likelihood and consequences of malwares.&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;-------------------------------------------------------------------------------------&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Latent cause: RME #2: Risk assessment and management of risks&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-3085.63" y="1877.5" width="355.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S55bJ3x7l86Opy5cK2Di-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-563.0000000000001" y="1489.9999999999998" width="302.57" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="jEPKDABsU9l7TRJNIgtV-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC#-S : The risk assessment program did not include evaluation of spam emails with malicious content.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-3" vertex="1">
+        <mxCell id="jEPKDABsU9l7TRJNIgtV-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC5-S : The risk assessment program did not include evaluation of spam emails with malicious content.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-3" vertex="1">
           <mxGeometry width="302.57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;RME #2 RA &amp;amp; MR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-3" vertex="1">
@@ -565,7 +565,7 @@
         <mxCell id="S55bJ3x7l86Opy5cK2Di-21" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1205" y="1317.0699999999997" width="287.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="S55bJ3x7l86Opy5cK2Di-15" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC#-S : The design program did not include installment of network-based antivirus solution as one of the design standards for designing and developing a secure corporation network.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-21" vertex="1">
+        <mxCell id="S55bJ3x7l86Opy5cK2Di-15" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC3-S : The design program did not include installment of network-based antivirus solution as one of the design standards for designing and developing a secure corporation network.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-21" vertex="1">
           <mxGeometry width="287.49999999999994" height="59.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="S55bJ3x7l86Opy5cK2Di-18" value="RME #7 DC &amp;amp; SU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-21" vertex="1">
@@ -574,7 +574,7 @@
         <mxCell id="S55bJ3x7l86Opy5cK2Di-23" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-907.5" y="1319.9999999999998" width="290" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="S55bJ3x7l86Opy5cK2Di-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC#-S ： The design program did not include installment of anti-spam solution as one of the design standards for designing and developing a secure and reliable corporation network.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-23" vertex="1">
+        <mxCell id="S55bJ3x7l86Opy5cK2Di-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC4-S ： The design program did not include installment of anti-spam solution as one of the design standards for designing and developing a secure and reliable corporation network.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-23" vertex="1">
           <mxGeometry width="290" height="73.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="S55bJ3x7l86Opy5cK2Di-22" value="RME #7 DC &amp;amp; SU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="S55bJ3x7l86Opy5cK2Di-23" vertex="1">
@@ -686,7 +686,7 @@
         <mxCell id="u-A6xDZNOoiBl20y27jn-32" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2792.8199999999997" y="1620.5" width="370" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="u-A6xDZNOoiBl20y27jn-29" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC#-S : The design program did not include installment of centralized logging and audit logs system as standards of designing and development of a secure and reliable corporation&amp;nbsp;network.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="u-A6xDZNOoiBl20y27jn-32" vertex="1">
+        <mxCell id="u-A6xDZNOoiBl20y27jn-29" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC3-S : The design program did not include installment of centralized logging and audit logs system as standards of designing and development of a secure and reliable corporation&amp;nbsp;network.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="u-A6xDZNOoiBl20y27jn-32" vertex="1">
           <mxGeometry width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-31" value="RME #7 DC &amp;amp; SU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="u-A6xDZNOoiBl20y27jn-32" vertex="1">
@@ -717,7 +717,7 @@
         <mxCell id="u-A6xDZNOoiBl20y27jn-56" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2346.54" y="1862.5" width="302.57" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="u-A6xDZNOoiBl20y27jn-57" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC#-S : The risk assessment program did not include evaluation of unusual logins and use of administrative privileges.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="u-A6xDZNOoiBl20y27jn-56" vertex="1">
+        <mxCell id="u-A6xDZNOoiBl20y27jn-57" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC4-S : The risk assessment program did not include evaluation of unusual logins and use of administrative privileges.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="u-A6xDZNOoiBl20y27jn-56" vertex="1">
           <mxGeometry width="302.57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-58" value="&lt;div style=&quot;text-align: justify;&quot;&gt;RME #2 RA &amp;amp; MR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="u-A6xDZNOoiBl20y27jn-56" vertex="1">
@@ -1171,7 +1171,7 @@
         <mxCell id="VrxwhniAfhhTzYhs1oCO-19" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;No report, investigation and follow up was done might due to lack of clarification of whether vulnerabilities in products from other companies should be included. For example, t&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;he firmware was developed by MOXA. Further more, GNU bash 4.3 used in firmware was part of GNU operating system, which was developed and maintenance by GNU Project&#39;s community.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;BC-JF : Inadequate reporting of, investigation of, or follow-up into loss events and near miss events&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-492.81" y="2360" width="445.62" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7NZy1QudLUCRV0sQBjIt-14" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="7NZy1QudLUCRV0sQBjIt-14" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="-449.08000000000004" y="2510" width="358.16" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC#-S : The scope and threshold criteria for vulnerabilities investigation in the incident investigation program was inadequate.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7NZy1QudLUCRV0sQBjIt-14" vertex="1">
