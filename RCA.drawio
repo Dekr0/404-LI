@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T03:12:02.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mlidBnVClIZVTvET7rTK" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T03:13:00.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zWQ-vV1ncZS1d12pjz_q" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
     <mxGraphModel dx="5478" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1110,7 +1110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-1" value="The software bugs were tricky and cannot be found easily." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="2610" width="160" height="60" as="geometry" />
+          <mxGeometry x="340" y="2390" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2j2k8TPkj8ATeqe2vbl-3" value="There is no constant improvement in cybersecurity development" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="1357.5" width="200" height="60" as="geometry" />
@@ -1122,7 +1122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-2" value="The software bugs were not found during the regular maintenance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="2470" width="150" height="60" as="geometry" />
+          <mxGeometry x="430" y="2250" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2j2k8TPkj8ATeqe2vbl-6" value="Cybersecurity system could not stop the malware " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="1262" width="200" height="60" as="geometry" />
@@ -1154,16 +1154,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-10" value="The maintenance was not deep enough to find all bugs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="77.28999999999999" y="2690" width="125.44" height="50" as="geometry" />
+          <mxGeometry x="357.28999999999996" y="2470" width="125.44" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VrxwhniAfhhTzYhs1oCO-13" target="VrxwhniAfhhTzYhs1oCO-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-13" value="The standard of the maintenance program did not require the depth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="67.07" y="2770" width="145.88" height="50" as="geometry" />
+          <mxGeometry x="347.07" y="2550" width="145.88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-15" value="LC18-S: The maintenance program did not include a standard of bug investigation&lt;br&gt;--------------------------------------RME #8: O &amp;amp; M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
-          <mxGeometry x="62.66" y="2850" width="154.69" height="90" as="geometry" />
+          <mxGeometry x="342.65999999999997" y="2630" width="154.69" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7NZy1QudLUCRV0sQBjIt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-19" target="VrxwhniAfhhTzYhs1oCO-24">
           <mxGeometry relative="1" as="geometry" />
@@ -1174,7 +1174,7 @@
         <mxCell id="7NZy1QudLUCRV0sQBjIt-14" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="-449.08000000000004" y="2510" width="358.16" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VrxwhniAfhhTzYhs1oCO-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC19-S : The scope and threshold criteria for vulnerabilities investigation in the incident investigation program was inadequate.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7NZy1QudLUCRV0sQBjIt-14" vertex="1">
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC18-S : The scope and threshold criteria for vulnerabilities investigation in the incident investigation program was inadequate.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7NZy1QudLUCRV0sQBjIt-14" vertex="1">
           <mxGeometry width="358.1600000000001" height="42.66413842142682" as="geometry" />
         </mxCell>
         <mxCell id="7NZy1QudLUCRV0sQBjIt-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;RME #5: IRIAA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NZy1QudLUCRV0sQBjIt-14">
