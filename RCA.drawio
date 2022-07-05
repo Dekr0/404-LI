@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T03:19:53.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="nd5qNniFMpuIsSNfbnat" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T03:20:50.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="lCLjBsIJFbxvAOTeELCZ" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="11390" dy="3208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7763" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -990,13 +990,13 @@
           <mxGeometry x="-809.2499999999999" y="1519.17" width="379.37" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-13" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-773.0600000000001" y="1619.17" width="305.99" height="80" as="geometry" />
+          <mxGeometry x="-776.0899999999999" y="1628.76" width="313.06" height="70.83" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC17-S : The risk assessment program does not include evaluation of the security and reliability of serial-to-ethernet converters.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WKTd3QbipZGCncqH9b7c-13" vertex="1">
-          <mxGeometry x="0.12957231270357852" width="305.8604276872964" height="44" as="geometry" />
+          <mxGeometry x="0.13256612377849697" width="312.9274338762214" height="38.9565" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-12" value="RME#2 RA &amp;amp; MR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WKTd3QbipZGCncqH9b7c-13" vertex="1">
-          <mxGeometry y="44" width="305.99" height="35.99999999999999" as="geometry" />
+          <mxGeometry y="38.9565" width="313.05999999999995" height="31.873499999999996" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WKTd3QbipZGCncqH9b7c-18" target="WKTd3QbipZGCncqH9b7c-4" edge="1">
           <mxGeometry relative="1" as="geometry">
