@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T03:57:31.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="U1RzZ6zX7DZaeyYQG40X" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T04:03:46.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1U-Mc9lYJhN3ltsv4DT9" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="6696" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7699" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -958,7 +958,7 @@
         <mxCell id="7Qgy7_eOm5iBgqSPM_gX-7" value="The potential possibilities of having KillDisk malware was not assessed appropriately&amp;nbsp;&lt;br&gt;BC - EDF: inadequate assessment of risk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="1436.5" y="1464.5900000000001" width="202.87" height="78.5" as="geometry" />
         </mxCell>
-        <mxCell id="7Qgy7_eOm5iBgqSPM_gX-9" value="LC14-P: The potential hazards was not evaluate properly by the risk management program&lt;br&gt;--------------------------------------------------------RME#2: RA &amp;amp; MA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+        <mxCell id="7Qgy7_eOm5iBgqSPM_gX-9" value="LC14-S: The potential hazards was not evaluate properly by the risk management program&lt;br&gt;--------------------------------------------------------RME#2: RA &amp;amp; MA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="1424.5" y="1569.9099999999999" width="226.87" height="83.72" as="geometry" />
         </mxCell>
         <mxCell id="WKTd3QbipZGCncqH9b7c-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WKTd3QbipZGCncqH9b7c-2" target="WKTd3QbipZGCncqH9b7c-38" edge="1">
@@ -1187,7 +1187,7 @@
         <mxCell id="VrxwhniAfhhTzYhs1oCO-19" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;No report, investigation and follow up was done. It might be due to lack of clarification of whether vulnerabilities in products from other companies should be included.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;For example, the firmware was developed by MOXA. Furthermore, GNU bash 4.3 used in firmware was part of the GNU operating system, which was developed and maintained by GNU Project&#39;s community.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;BC-JF : Inadequate reporting of, investigation of, or follow-up into loss events and near miss events&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1642.81" y="1609.17" width="445.62" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7NZy1QudLUCRV0sQBjIt-14" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="7NZy1QudLUCRV0sQBjIt-14" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="-1599.08" y="1759.17" width="358.16" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC18-S : The scope and threshold criteria for vulnerabilities investigation in the incident investigation program was inadequate.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7NZy1QudLUCRV0sQBjIt-14" vertex="1">
