@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T03:35:44.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="p1sUbpPigAOuXJFbcckq" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T03:35:54.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eUowM5Y89FB_02nWlVYI" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="6656" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7612" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1178,11 +1178,11 @@
         <mxCell id="VrxwhniAfhhTzYhs1oCO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VrxwhniAfhhTzYhs1oCO-13" target="VrxwhniAfhhTzYhs1oCO-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VrxwhniAfhhTzYhs1oCO-13" value="The standard of the maintenance program did not require the depth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="-1152.92" y="1721.67" width="145.88" height="50" as="geometry" />
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-13" value="The standard of the maintenance program did not require the depth&lt;br&gt;BC-JF: inadequate maintenance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="-1186.44" y="1722.18" width="216.44" height="77.82" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-15" value="LC19-S: The maintenance program did not include a standard of bug investigation&lt;br&gt;--------------------------------------RME #8: O &amp;amp; M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
-          <mxGeometry x="-1157.3300000000002" y="1801.67" width="154.69" height="90" as="geometry" />
+          <mxGeometry x="-1157.3300000000002" y="1843.01" width="154.69" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7NZy1QudLUCRV0sQBjIt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-19" target="VrxwhniAfhhTzYhs1oCO-24">
           <mxGeometry relative="1" as="geometry" />
@@ -1190,7 +1190,7 @@
         <mxCell id="VrxwhniAfhhTzYhs1oCO-19" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;No report, investigation and follow up was done might due to lack of clarification of whether vulnerabilities in products from other companies should be included. For example, t&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;he firmware was developed by MOXA. Further more, GNU bash 4.3 used in firmware was part of GNU operating system, which was developed and maintenance by GNU Project&#39;s community.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;BC-JF : Inadequate reporting of, investigation of, or follow-up into loss events and near miss events&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1642.81" y="1609.17" width="445.62" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7NZy1QudLUCRV0sQBjIt-14" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="7NZy1QudLUCRV0sQBjIt-14" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="-1599.08" y="1759.17" width="358.16" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC18-S : The scope and threshold criteria for vulnerabilities investigation in the incident investigation program was inadequate.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7NZy1QudLUCRV0sQBjIt-14" vertex="1">
