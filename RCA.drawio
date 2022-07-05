@@ -1,22 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T04:03:46.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1U-Mc9lYJhN3ltsv4DT9" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T04:10:47.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="VBeWsjn3ngrac1hJPkdQ" version="20.0.4" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="7699" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6696" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P1DnXNQam8rRqI48JGVU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1DnXNQam8rRqI48JGVU-1" target="P1DnXNQam8rRqI48JGVU-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7NZy1QudLUCRV0sQBjIt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-1" target="P1DnXNQam8rRqI48JGVU-19">
+        <mxCell id="7NZy1QudLUCRV0sQBjIt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;startArrow=none;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-17" target="P1DnXNQam8rRqI48JGVU-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="375" y="200" />
               <mxPoint x="-3397" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1DnXNQam8rRqI48JGVU-1" value="Three regions in Ukraine experienced 1 ~ 3.5 hours power outage. Critical system data in three regional electric power distribution companies was destroyed.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="80" y="20" width="590" height="80" as="geometry" />
+        <mxCell id="7NZy1QudLUCRV0sQBjIt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="P1DnXNQam8rRqI48JGVU-1" target="P1DnXNQam8rRqI48JGVU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;On December 23, 2015, Ukraine became the first example of regional power outage because of cyber attacks from Russian hackers by illegally entering into the company’s computer and SCADA systems, causing more than 200,000 people to lose power and financially losing $3,764,250 while not producing electricity. At 3:35 p.m. local time, seven 110kV and twenty-three 35kV substations were disconnected for 3 hours, and then it was found that the cyber attack impacted additional portions of the distribution grid and forced operators to switch to manual mode.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="80" y="20" width="590" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P1DnXNQam8rRqI48JGVU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1DnXNQam8rRqI48JGVU-17" target="P1DnXNQam8rRqI48JGVU-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -33,9 +32,6 @@
               <mxPoint x="1040" y="200" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="P1DnXNQam8rRqI48JGVU-17" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="361.25" y="120" width="27.5" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="P1DnXNQam8rRqI48JGVU-19" target="j5-XqhcZVIJDEOVzyIAh-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -522,9 +518,6 @@
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-50" value="" style="shape=or;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="-5045" y="1445.51" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9jkZjqHAAnEb0GGMNLzz-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Include estimated dollar value loss in incident description.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="40" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FllZFn1e7CsPc6dMasNk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jr1dt4M5VPBUyu-Dkv2p-1" target="3wR_iqf3RDHY0gBB5E3J-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1187,7 +1180,7 @@
         <mxCell id="VrxwhniAfhhTzYhs1oCO-19" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;No report, investigation and follow up was done. It might be due to lack of clarification of whether vulnerabilities in products from other companies should be included.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;For example, the firmware was developed by MOXA. Furthermore, GNU bash 4.3 used in firmware was part of the GNU operating system, which was developed and maintained by GNU Project&#39;s community.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;BC-JF : Inadequate reporting of, investigation of, or follow-up into loss events and near miss events&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1642.81" y="1609.17" width="445.62" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7NZy1QudLUCRV0sQBjIt-14" value="" style="group" connectable="0" vertex="1" parent="1">
+        <mxCell id="7NZy1QudLUCRV0sQBjIt-14" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1599.08" y="1759.17" width="358.16" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC18-S : The scope and threshold criteria for vulnerabilities investigation in the incident investigation program was inadequate.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7NZy1QudLUCRV0sQBjIt-14" vertex="1">
@@ -1195,6 +1188,9 @@
         </mxCell>
         <mxCell id="7NZy1QudLUCRV0sQBjIt-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;RME #5: IRIAA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7NZy1QudLUCRV0sQBjIt-14">
           <mxGeometry y="42.66413842142682" width="358.1600000000001" height="17.3358615785731" as="geometry" />
+        </mxCell>
+        <mxCell id="P1DnXNQam8rRqI48JGVU-17" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="361.25" y="140" width="27.5" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
