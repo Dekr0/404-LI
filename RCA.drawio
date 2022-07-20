@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T01:39:23.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.0 Safari/537.36 Edg/105.0.1300.0" etag="o23l49FH2dp0RjFqQZhQ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T18:59:30.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1321.0" etag="E-VxLZdELzzvlrL3BPXS" version="20.1.3" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="8236" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8083" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,8 +126,12 @@
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j5-XqhcZVIJDEOVzyIAh-35" target="j5-XqhcZVIJDEOVzyIAh-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5wm-DWUxtDo4BaM8-Dd3-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j5-XqhcZVIJDEOVzyIAh-35" target="j5-XqhcZVIJDEOVzyIAh-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3OleeZc5jyFplGfHolyR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j5-XqhcZVIJDEOVzyIAh-35" target="j5-XqhcZVIJDEOVzyIAh-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-4452" y="573" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-35" value="" style="shape=or;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="-3305.17" y="569.89" width="40" height="30" as="geometry" />
@@ -136,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j5-XqhcZVIJDEOVzyIAh-38" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BlackEnergy 3 malware resided and executed in employee workstations and coroporate network in the power distribution companies from June 2015 - Decemebr 2015.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4560" y="775.51" width="315" height="40" as="geometry" />
+          <mxGeometry x="-4610" y="593.22" width="315" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9AnfHlbfWIQ67jcDiBTo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j5-XqhcZVIJDEOVzyIAh-40" target="j5-XqhcZVIJDEOVzyIAh-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -398,36 +402,36 @@
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-12" target="5wm-DWUxtDo4BaM8-Dd3-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4402.5" y="1110.0800000000002" as="targetPoint" />
+            <mxPoint x="-4452.5" y="927.7900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-12" value="&lt;div style=&quot;text-align: justify;&quot;&gt;BlackEnergy 3 malware was not detected and identified in the corporate network.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4516.86" y="970.08" width="228.74" height="30" as="geometry" />
+          <mxGeometry x="-4566.86" y="787.7900000000001" width="228.74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="69rKDuXUG_CxITf-V3C--1" value="&lt;span style=&quot;text-align: justify;&quot;&gt;The power distribution company&#39;s customer service call-center were non-operational.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="480" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-14" target="5wm-DWUxtDo4BaM8-Dd3-35" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3262.495" y="1197.5800000000002" as="targetPoint" />
+            <mxPoint x="-3312.495" y="1015.2900000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Unusual and suspicious activities and actions from BlackEnergy 3 malware was not logged and flagged in the corporate network.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4525.19" y="1030.08" width="245.39" height="50" as="geometry" />
+          <mxGeometry x="-4575.19" y="847.79" width="245.39" height="50" as="geometry" />
         </mxCell>
         <mxCell id="69rKDuXUG_CxITf-V3C--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="69rKDuXUG_CxITf-V3C--4" target="pcgtMMzWnX6byRuWT80S-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-16" target="5wm-DWUxtDo4BaM8-Dd3-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4350" y="980.0400000000001" as="targetPoint" />
+            <mxPoint x="-4400" y="797.7500000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3wR_iqf3RDHY0gBB5E3J-5" value="No one recognized the risk of not having application whitelist" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3604.06" y="1176.58" width="235.93" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-16" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The power distribution companies did not remove the BlackEnergy 3 malware, its plugins, additional malware and malicious files from the corporate network.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4550" y="840.08" width="295" height="50" as="geometry" />
+          <mxGeometry x="-4600" y="657.7900000000001" width="295" height="50" as="geometry" />
         </mxCell>
         <mxCell id="69rKDuXUG_CxITf-V3C--4" value="LC12-P There was no emergency preparedness program for telecommunication system in emergency time regarding call-traffic volume management and spam call filtering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="801" y="870" width="279" height="60" as="geometry" />
@@ -439,85 +443,85 @@
           <mxGeometry x="-3610" y="1379.08" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-18" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The power distribution companies did not aware that BlackEnergy 3 malware existed in the corporate network.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4560" y="910.08" width="315" height="40" as="geometry" />
+          <mxGeometry x="-4610" y="727.7900000000001" width="315" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3wR_iqf3RDHY0gBB5E3J-15" target="3wR_iqf3RDHY0gBB5E3J-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3wR_iqf3RDHY0gBB5E3J-15" value="The power distribution companies did not have a designated IT team to check for hidden&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5095" y="1260.51" width="180" height="60" as="geometry" />
+          <mxGeometry x="-5145" y="1078.22" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3wR_iqf3RDHY0gBB5E3J-16" target="5wm-DWUxtDo4BaM8-Dd3-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3wR_iqf3RDHY0gBB5E3J-16" value="Checking for the hidden was not required in the maintenance working procedure." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5100" y="1350.51" width="190" height="50" as="geometry" />
+          <mxGeometry x="-5150" y="1168.22" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3wR_iqf3RDHY0gBB5E3J-17" value="The maintenance of checking for hidden was incomplete&lt;br&gt;BC: JF: inadequate maintenance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-5218.75" y="1610.51" width="190" height="60" as="geometry" />
+          <mxGeometry x="-5268.75" y="1428.22" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3wR_iqf3RDHY0gBB5E3J-19" target="mT-OK7VVdEZFURRxMBzH-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-4850" y="1740.51" />
-              <mxPoint x="-4850" y="1740.51" />
+              <mxPoint x="-4900" y="1558.22" />
+              <mxPoint x="-4900" y="1558.22" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3wR_iqf3RDHY0gBB5E3J-19" value="The evaluation of danger of hidden was failed." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-4930.32" y="1655.51" width="165" height="60" as="geometry" />
+          <mxGeometry x="-4980.32" y="1473.22" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3wR_iqf3RDHY0gBB5E3J-27" value="LC7-S: The maintenance program did not include a procedure for regular checking of hidden&lt;br&gt;------------------------------------------------------------------&lt;br&gt;RME #8: Operations and maintenance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-5260" y="1710.51" width="270" height="80" as="geometry" />
+          <mxGeometry x="-5310" y="1528.22" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-35" target="u-A6xDZNOoiBl20y27jn-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-4402" y="1205.51" />
-              <mxPoint x="-4200" y="1205.51" />
+              <mxPoint x="-4452" y="1023.22" />
+              <mxPoint x="-4250" y="1023.22" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-35" target="3wR_iqf3RDHY0gBB5E3J-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-4402" y="1205.51" />
-              <mxPoint x="-5000" y="1205.51" />
+              <mxPoint x="-4452" y="1023.22" />
+              <mxPoint x="-5050" y="1023.22" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-35" value="" style="shape=xor;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
-          <mxGeometry x="-4442.485" y="1110.0800000000002" width="80" height="60" as="geometry" />
+          <mxGeometry x="-4492.485" y="927.7900000000001" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-45" target="u-A6xDZNOoiBl20y27jn-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-4547.82" y="1620.51" />
-              <mxPoint x="-4547.82" y="1620.51" />
+              <mxPoint x="-4555" y="1438.22" />
+              <mxPoint x="-4555" y="1438.22" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-45" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;There is no implementation of centralized logging and audit logs system for unusual logins or use of administrative&amp;nbsp;privileges (e.g., abnormal hours, unsuccessful login attempts).&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;BC-EDF : Inadequate inherently safe design&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-4727.82" y="1500.51" width="360" height="80" as="geometry" />
+          <mxGeometry x="-4735" y="1318.22" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-50" target="3wR_iqf3RDHY0gBB5E3J-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-5005" y="1580.51" />
-              <mxPoint x="-5124" y="1580.51" />
+              <mxPoint x="-5055" y="1398.22" />
+              <mxPoint x="-5174" y="1398.22" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-50" target="3wR_iqf3RDHY0gBB5E3J-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-5005" y="1580.51" />
-              <mxPoint x="-4850" y="1580.51" />
+              <mxPoint x="-5055" y="1398.22" />
+              <mxPoint x="-4900" y="1398.22" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5wm-DWUxtDo4BaM8-Dd3-50" value="" style="shape=or;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
-          <mxGeometry x="-5045" y="1445.51" width="80" height="60" as="geometry" />
+          <mxGeometry x="-5095" y="1263.22" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FllZFn1e7CsPc6dMasNk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jr1dt4M5VPBUyu-Dkv2p-1" target="3wR_iqf3RDHY0gBB5E3J-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -533,18 +537,18 @@
         </mxCell>
         <mxCell id="mT-OK7VVdEZFURRxMBzH-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3wR_iqf3RDHY0gBB5E3J-17" target="3wR_iqf3RDHY0gBB5E3J-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4800" y="1600.51" as="sourcePoint" />
-            <mxPoint x="-4750" y="1550.51" as="targetPoint" />
+            <mxPoint x="-4850" y="1418.22" as="sourcePoint" />
+            <mxPoint x="-4800" y="1368.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mT-OK7VVdEZFURRxMBzH-4" target="mT-OK7VVdEZFURRxMBzH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mT-OK7VVdEZFURRxMBzH-4" value="The risk of having malwares was not assessed.&lt;br&gt;&lt;br&gt;BC-EDF: inadequate assessment of risk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-4967.82" y="1770.51" width="240" height="60" as="geometry" />
+          <mxGeometry x="-5017.82" y="1588.22" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mT-OK7VVdEZFURRxMBzH-6" value="&lt;span style=&quot;&quot;&gt;LC8-S: The risk assessment program did not include evaluation of likelihood and consequences of malwares.&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;-------------------------------------------------------------------------------------&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Latent cause: RME #2: Risk assessment and management of risks&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-5025.63" y="1870.51" width="355.63" height="80" as="geometry" />
+          <mxGeometry x="-5075.63" y="1688.22" width="355.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S55bJ3x7l86Opy5cK2Di-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2503" y="1483.0099999999998" width="302.57" height="65" as="geometry" />
@@ -658,35 +662,35 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-13" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Installment of centralized logging and audit logs system for unusual logins or use of administrative privileges was not considered or included during the design and development of corporate network&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4310" y="1500.51" width="350" height="65" as="geometry" />
+          <mxGeometry x="-4360" y="1318.22" width="350" height="65" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="u-A6xDZNOoiBl20y27jn-18" target="u-A6xDZNOoiBl20y27jn-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-18" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;An centralized logging and audit logs system for unusual logins or use of administrative privileges (e.g., abnormal hours, unsuccessful login attempts) was absence in the corporation network.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;I-SC: Missing / lack of centralized logging and audit logs system for unusual logins or use of administrative privileges.&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-4340" y="1228.22" width="292.51" height="120" as="geometry" />
+          <mxGeometry x="-4390" y="1045.93" width="292.51" height="120" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u-A6xDZNOoiBl20y27jn-21" target="5wm-DWUxtDo4BaM8-Dd3-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-4194" y="1435.51" />
-              <mxPoint x="-4550" y="1435.51" />
+              <mxPoint x="-4244" y="1253" />
+              <mxPoint x="-4550" y="1253" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="u-A6xDZNOoiBl20y27jn-21" target="u-A6xDZNOoiBl20y27jn-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-4194" y="1435.51" />
-              <mxPoint x="-4135" y="1435.51" />
+              <mxPoint x="-4244" y="1253.22" />
+              <mxPoint x="-4185" y="1253.22" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-21" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-4213.75" y="1375.51" width="40" height="50" as="geometry" />
+          <mxGeometry x="-4263.75" y="1193.22" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-32" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-4732.82" y="1613.51" width="370" height="85" as="geometry" />
+          <mxGeometry x="-4740" y="1431.22" width="370" height="85" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-29" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC9-S : The design program did not include installment of centralized logging and audit logs system as standards of designing and development of a secure and reliable corporation&amp;nbsp;network.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="u-A6xDZNOoiBl20y27jn-32" vertex="1">
           <mxGeometry width="370" height="50" as="geometry" />
@@ -696,28 +700,28 @@
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u-A6xDZNOoiBl20y27jn-44" target="u-A6xDZNOoiBl20y27jn-53" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4134.8" y="1675.51" as="targetPoint" />
+            <mxPoint x="-4184.8" y="1493.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-44" value="&lt;span style=&quot;text-align: justify;&quot;&gt;The potential risk of both unusual logins and use of administrative privileges were underestimated.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4279.8" y="1598.01" width="290" height="40" as="geometry" />
+          <mxGeometry x="-4329.8" y="1415.72" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u-A6xDZNOoiBl20y27jn-53" target="u-A6xDZNOoiBl20y27jn-55" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4135" y="1755.51" as="targetPoint" />
+            <mxPoint x="-4185" y="1573.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-53" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The potential risk of both unusual logins and use of administrative privileges were not identified and recognized.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4257.4" y="1670.51" width="244.8" height="50" as="geometry" />
+          <mxGeometry x="-4307.4" y="1488.22" width="244.8" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u-A6xDZNOoiBl20y27jn-55" target="u-A6xDZNOoiBl20y27jn-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-55" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The risk of unusual logins and use of administrative privileges were not assessed.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BC-EDF : Inadequate assessment of loss exposures / risks / hazards&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-4310.52" y="1755.51" width="350.52" height="70" as="geometry" />
+          <mxGeometry x="-4360.52" y="1573.22" width="350.52" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-56" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-4286.54" y="1855.51" width="302.57" height="65" as="geometry" />
+          <mxGeometry x="-4336.54" y="1673.22" width="302.57" height="65" as="geometry" />
         </mxCell>
         <mxCell id="u-A6xDZNOoiBl20y27jn-57" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC10-S : The risk assessment program did not include evaluation of unusual logins and use of administrative privileges.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="u-A6xDZNOoiBl20y27jn-56" vertex="1">
           <mxGeometry width="302.57" height="50" as="geometry" />
@@ -774,7 +778,7 @@
         <mxCell id="tI6YTJ1I8yG588Ly_Qp0-4" value="The deficiency of the system was known by the adversary." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2000" y="593.22" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="caeBV9iTDMLU013OGBBp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AnfHlbfWIQ67jcDiBTo-3" target="HnB_fhYlCkEzHi8ZUKED-16">
+        <mxCell id="caeBV9iTDMLU013OGBBp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9AnfHlbfWIQ67jcDiBTo-3" target="HnB_fhYlCkEzHi8ZUKED-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="187" y="870" />
@@ -782,7 +786,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="caeBV9iTDMLU013OGBBp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AnfHlbfWIQ67jcDiBTo-3" target="9AnfHlbfWIQ67jcDiBTo-1">
+        <mxCell id="caeBV9iTDMLU013OGBBp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9AnfHlbfWIQ67jcDiBTo-3" target="9AnfHlbfWIQ67jcDiBTo-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="187" y="870" />
