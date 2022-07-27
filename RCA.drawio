@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T23:21:51.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1321.0" etag="pgPZjKEkCBeTusF2cPrK" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T23:28:35.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1321.0" etag="rTUQA1l_pCKuryKIx5Sz" version="20.2.1" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="4036" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3893" dy="1555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -689,7 +689,7 @@
         <mxCell id="0No4Y95WPuRv0wsTpAdu-13" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1530.8700000000001" y="965.48" width="242.06999999999994" height="92.41000000000008" as="geometry" />
         </mxCell>
-        <mxCell id="0No4Y95WPuRv0wsTpAdu-10" value="LC15-S: The documentation program did not include a standard that described how to categorize critical system information that could be used by a threat actor, and to restrict those information from distributing." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="0No4Y95WPuRv0wsTpAdu-13" vertex="1">
+        <mxCell id="0No4Y95WPuRv0wsTpAdu-10" value="LC15-S: The documentation program did not include a standard that described how to categorize critical system information that could be used by a threat actor, and to restrict that information from distributing." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="0No4Y95WPuRv0wsTpAdu-13" vertex="1">
           <mxGeometry width="242.07" height="72.41" as="geometry" />
         </mxCell>
         <mxCell id="0No4Y95WPuRv0wsTpAdu-12" value="RME #11: OFID" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="0No4Y95WPuRv0wsTpAdu-13" vertex="1">
@@ -764,7 +764,7 @@
         <mxCell id="0No4Y95WPuRv0wsTpAdu-55" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="656.09" y="669.2" width="226" height="87.28999999999996" as="geometry" />
         </mxCell>
-        <mxCell id="0No4Y95WPuRv0wsTpAdu-52" value="LC12-C: The actual work practices did not meet the requirements described by the standard and procedures in operation and maintenance program for monitoring traffics and activities in the ICS network." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="0No4Y95WPuRv0wsTpAdu-55" vertex="1">
+        <mxCell id="0No4Y95WPuRv0wsTpAdu-52" value="LC12-C: The actual work practices did not meet the requirements described by the standard and procedures in operation and maintenance program for monitoring traffic and activities in the ICS network." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="0No4Y95WPuRv0wsTpAdu-55" vertex="1">
           <mxGeometry x="0.37999999999999545" width="225.62" height="72" as="geometry" />
         </mxCell>
         <mxCell id="0No4Y95WPuRv0wsTpAdu-54" value="RME #8 O&amp;amp;M" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="0No4Y95WPuRv0wsTpAdu-55" vertex="1">
@@ -779,7 +779,7 @@
         <mxCell id="0No4Y95WPuRv0wsTpAdu-60" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="896.59" y="785.1800000000001" width="295" height="81.30999999999995" as="geometry" />
         </mxCell>
-        <mxCell id="0No4Y95WPuRv0wsTpAdu-57" value="LC13-C: There was emergency preparedness program that developed emergency procedures and response plans about operating under a cyber attack but the procedures and plan were not well practiced" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="0No4Y95WPuRv0wsTpAdu-60" vertex="1">
+        <mxCell id="0No4Y95WPuRv0wsTpAdu-57" value="LC13-C: There was an emergency preparedness program that developed emergency procedures and response plans about operating under a cyber attack but the procedures and plan were not well practiced" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="0No4Y95WPuRv0wsTpAdu-60" vertex="1">
           <mxGeometry width="295" height="59" as="geometry" />
         </mxCell>
         <mxCell id="0No4Y95WPuRv0wsTpAdu-59" value="RME #3 CEAP" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="0No4Y95WPuRv0wsTpAdu-60" vertex="1">
@@ -863,7 +863,7 @@
         <mxCell id="J0PBFhfmoYSgyRRebVK--4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-860" y="706.98" width="311.48" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="h_36R3d2cRI9r6mm5n16-7" value="LC7-S: The maintenance program did not include proper procedures for for scanning, locating and eliminating malwares in a regular basis." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="J0PBFhfmoYSgyRRebVK--4" vertex="1">
+        <mxCell id="h_36R3d2cRI9r6mm5n16-7" value="LC7-S: The maintenance program did not include proper procedures for scanning, locating and eliminating malwares on a regular basis." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="J0PBFhfmoYSgyRRebVK--4" vertex="1">
           <mxGeometry x="0.23999999999978172" width="310.98" height="47.45" as="geometry" />
         </mxCell>
         <mxCell id="h_36R3d2cRI9r6mm5n16-8" value="RME #8: Operations and Maintenance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="J0PBFhfmoYSgyRRebVK--4" vertex="1">
@@ -1037,13 +1037,13 @@
           <mxGeometry x="2950" y="960.2699999999996" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2786.75" y="1415.94" width="202" height="76.77999999999997" as="geometry" />
+          <mxGeometry x="2781.13" y="1430" width="213.25" height="76.78" as="geometry" />
         </mxCell>
-        <mxCell id="KtfwBzDnWO2-LZZDMrBM-26" value="LC20-P: There was no incident investigation program to investigate cybersecurity loss incident and miss incidents outside the organization." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-32">
-          <mxGeometry width="201.87" height="56.78" as="geometry" />
+        <mxCell id="KtfwBzDnWO2-LZZDMrBM-26" value="LC20-P: There was no incident investigation program to investigate cybersecurity loss incidents and miss incidents outside the organization." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-32">
+          <mxGeometry width="213.11275990099008" height="56.78000000000003" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-31" value="RME #5 IRIAA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-32">
-          <mxGeometry y="56.77999999999997" width="202" height="20" as="geometry" />
+          <mxGeometry y="56.78" width="213.25" height="20.000000000000007" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KtfwBzDnWO2-LZZDMrBM-37" target="KtfwBzDnWO2-LZZDMrBM-39">
           <mxGeometry relative="1" as="geometry">
@@ -1102,7 +1102,7 @@
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-65" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3215" y="1162.26" width="175" height="117.74" as="geometry" />
         </mxCell>
-        <mxCell id="KtfwBzDnWO2-LZZDMrBM-60" value="LC22-S: The evaluation program did not include reviews and continuous improvements of safety safety and security standard for design and development of IT systems in the design program." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-65">
+        <mxCell id="KtfwBzDnWO2-LZZDMrBM-60" value="LC22-S: The evaluation program did not include reviews and continuous improvements of safety safety and security standards for design and development of IT systems in the design program." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-65">
           <mxGeometry width="175" height="97.73999999999998" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-64" value="RME #6 PECI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-65">
