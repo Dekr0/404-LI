@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T23:14:07.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1321.0" etag="V119yStlIpIlMEbRw8iu" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T23:17:26.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1321.0" etag="Z02oh6AyYBXu1IwiJ8cO" version="20.2.1" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="6880" dy="3124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5488" dy="2315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,9 +114,6 @@
         </mxCell>
         <mxCell id="3wR_iqf3RDHY0gBB5E3J-5" value="No one recognized the risk of not having application whitelist" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1415.49" y="446.0000000000002" width="235.93" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3wR_iqf3RDHY0gBB5E3J-6" value="LC5-S: The risk assessment program did not include requirements for how the hazards would be without preventing unknown files&lt;br&gt;----------------------------------------------------------------&lt;br&gt;RME #2: Risk assessment and management of risks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-1421.43" y="648.4999999999999" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="J0PBFhfmoYSgyRRebVK--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5wm-DWUxtDo4BaM8-Dd3-45" target="J0PBFhfmoYSgyRRebVK--10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -962,7 +959,7 @@
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-6" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3487.51" y="879.81" width="225.01000000000022" height="106.47000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="KtfwBzDnWO2-LZZDMrBM-3" value="LC22-S: The operations and maintenance program did not include regular scanning operation with YARA rules as standard and part of the procedures of cyber safety and security maintenance for the organization system." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-6">
+        <mxCell id="KtfwBzDnWO2-LZZDMrBM-3" value="LC23-S: The operations and maintenance program did not include regular scanning operation with YARA rules as standard and part of the procedures of cyber safety and security maintenance for the organization system." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-6">
           <mxGeometry width="225.01" height="88.95" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-5" value="RME #8 O&amp;amp;M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-6">
@@ -982,9 +979,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="86mKAm_te9RX6ObF0ewo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KtfwBzDnWO2-LZZDMrBM-13" target="0No4Y95WPuRv0wsTpAdu-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KtfwBzDnWO2-LZZDMrBM-13" target="KtfwBzDnWO2-LZZDMrBM-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -992,9 +986,6 @@
               <mxPoint x="3136" y="600" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="86mKAm_te9RX6ObF0ewo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KtfwBzDnWO2-LZZDMrBM-13" target="KtfwBzDnWO2-LZZDMrBM-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-13" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2905" y="539.8100000000001" width="50" height="40" as="geometry" />
@@ -1111,7 +1102,7 @@
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-65" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3215" y="1162.26" width="175" height="117.74" as="geometry" />
         </mxCell>
-        <mxCell id="KtfwBzDnWO2-LZZDMrBM-60" value="LCx-S: The evaluation program did not include reviews and continuous improvements of safety safety and security standard for design and development of IT systems in the design program." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-65">
+        <mxCell id="KtfwBzDnWO2-LZZDMrBM-60" value="LC22-S: The evaluation program did not include reviews and continuous improvements of safety safety and security standard for design and development of IT systems in the design program." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-65">
           <mxGeometry width="175" height="97.73999999999998" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-64" value="RME #6 PECI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-65">
@@ -1136,6 +1127,15 @@
         </mxCell>
         <mxCell id="1a5K0hj0Axs2Wz88hQpL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KtfwBzDnWO2-LZZDMrBM-66" source="1a5K0hj0Axs2Wz88hQpL-6" target="1a5K0hj0Axs2Wz88hQpL-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KtfwBzDnWO2-LZZDMrBM-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1412.15" y="629.25" width="242.1500000000001" height="70.75" as="geometry" />
+        </mxCell>
+        <mxCell id="3wR_iqf3RDHY0gBB5E3J-6" value="LC5-S: The risk assessment program did not include requirements for how the hazards would be without preventing unknown files&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="KtfwBzDnWO2-LZZDMrBM-68" vertex="1">
+          <mxGeometry width="241.43" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KtfwBzDnWO2-LZZDMrBM-67" value="RME #2: RA&amp;amp;MR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KtfwBzDnWO2-LZZDMrBM-68">
+          <mxGeometry x="0.15000000000009095" y="51.75" width="242" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
