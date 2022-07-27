@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T02:33:49.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1321.0" etag="iGDU4FyQmd0wr40WXHpV" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T04:19:50.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1321.0" etag="aAM959ZUCTxiSCiWO45b" version="20.2.0" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="4705" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="9932" dy="4744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -964,17 +964,17 @@
         </mxCell>
         <mxCell id="0No4Y95WPuRv0wsTpAdu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="0No4Y95WPuRv0wsTpAdu-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="680" as="targetPoint" />
+            <mxPoint x="970" y="674.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0No4Y95WPuRv0wsTpAdu-40" value="Operators were distracted by the sudden impact created by threat actors via opening the substations&#39; breakers, or operators focused on handling emergency situation after substations went offline. This creates open windows for threat actors to push the firmware updates.&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="920" y="556.4300000000001" width="260" height="86.28" as="geometry" />
+          <mxGeometry x="840" y="551.0000000000001" width="260" height="86.28" as="geometry" />
         </mxCell>
         <mxCell id="0No4Y95WPuRv0wsTpAdu-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="0No4Y95WPuRv0wsTpAdu-42" target="0No4Y95WPuRv0wsTpAdu-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="842" y="530" />
-              <mxPoint x="1047" y="530" />
+              <mxPoint x="970" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1005,6 +1005,9 @@
         </mxCell>
         <mxCell id="0No4Y95WPuRv0wsTpAdu-54" value="RME #8 O&amp;amp;M" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="0No4Y95WPuRv0wsTpAdu-55">
           <mxGeometry y="72.28999999999996" width="226" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="0No4Y95WPuRv0wsTpAdu-56" value="Operators did not received enough emergency drills / regular dry runs as practices for incident response scenarios such that they were well-prepared and&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="910" y="681" width="250" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
