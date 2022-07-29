@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T00:49:06.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1329.1" etag="ylEdm-rKxd314_orCuqv" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T00:53:50.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1329.1" etag="V0Qm_b-Zp1KqihRr4u-8" version="20.2.2" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="5225" dy="2146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4659" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,17 +399,19 @@
         <mxCell id="VrxwhniAfhhTzYhs1oCO-13" value="The standard of the maintenance program did not require the depth&lt;br&gt;&lt;br&gt;B17-JF: inadequate maintenance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="2101.13" y="961.0000000000001" width="216.44" height="77.82" as="geometry" />
         </mxCell>
-        <mxCell id="VrxwhniAfhhTzYhs1oCO-15" value="&lt;div&gt;LC17-S: The maintenance program did not include a standard of bug investigation&lt;/div&gt;&lt;div&gt;--------------------------------------&lt;/div&gt;&lt;div&gt;RME #8: O &amp;amp; M&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-15" value="&lt;div&gt;LC17-S: The maintenance program did not include a standard of bug investigation&lt;/div&gt;&lt;div&gt;--------------------------------------&lt;/div&gt;&lt;div&gt;RME #8: O&amp;amp;M&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="2132.04" y="1072.2600000000004" width="154.69" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7NZy1QudLUCRV0sQBjIt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="VrxwhniAfhhTzYhs1oCO-19" target="VrxwhniAfhhTzYhs1oCO-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zfRKYdbk7Q89I0Beq5IJ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrxwhniAfhhTzYhs1oCO-19" target="zfRKYdbk7Q89I0Beq5IJ-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1930" y="930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="VrxwhniAfhhTzYhs1oCO-19" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;No report, investigation and follow up was done. It might be due to lack of clarification of whether vulnerabilities in products from other companies should be included.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;For example, the firmware was developed by MOXA. Furthermore, GNU bash 4.3 used in firmware was part of the GNU operating system, which was developed and maintained by GNU Project&#39;s community.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;B16-JF : Inadequate reporting of, investigation of, or follow-up into loss events and near miss events&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1827.93" y="806.98" width="196.6" height="232.5" as="geometry" />
+        <mxCell id="VrxwhniAfhhTzYhs1oCO-19" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;No report, investigation and follow up was done on known vulnerabilities related to GNU Bash 4.3 in Moxa UC 7408-LX-Plus.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;B16-JF : Inadequate reporting of, investigation of, or follow-up into loss events and near miss events&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1787.76" y="810.6500000000001" width="280.36" height="83.68" as="geometry" />
         </mxCell>
         <mxCell id="7NZy1QudLUCRV0sQBjIt-14" value="" style="group;align=center;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1805.8700000000001" y="1071.9800000000005" width="240" height="60" as="geometry" />
+          <mxGeometry x="1807.94" y="1038.8200000000004" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VrxwhniAfhhTzYhs1oCO-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LC16-S : The scope and threshold criteria for vulnerabilities investigation in the incident investigation program was inadequate.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="7NZy1QudLUCRV0sQBjIt-14" vertex="1">
           <mxGeometry width="240.00000000000006" height="42.66413842142682" as="geometry" />
@@ -1296,6 +1298,12 @@
         </mxCell>
         <mxCell id="zfRKYdbk7Q89I0Beq5IJ-54" value="Installment of physical restriction was not included as one of the design standards&amp;nbsp;for designing and developing secure and reliable networked substations." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1239.75" y="573.66" width="223.16" height="68.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRKYdbk7Q89I0Beq5IJ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfRKYdbk7Q89I0Beq5IJ-57" target="VrxwhniAfhhTzYhs1oCO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRKYdbk7Q89I0Beq5IJ-57" value="There was a lack of clarification of whether vulnerabilities in products from other companies should be included. For example, the firmware was developed by MOXA. Furthermore, GNU bash 4.3 used in firmware was part of the GNU operating system, which was developed and maintained by GNU Project&#39;s community." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1771.39" y="924.0600000000001" width="313.09" height="89.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
