@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T00:53:50.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1329.1" etag="V0Qm_b-Zp1KqihRr4u-8" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T00:56:32.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1329.1" etag="1b9CIju1CtxaYWYPkZkA" version="20.2.2" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="4659" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4617" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -779,11 +779,11 @@
         </mxCell>
         <mxCell id="J0PBFhfmoYSgyRRebVK--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0No4Y95WPuRv0wsTpAdu-87" target="J0PBFhfmoYSgyRRebVK--35" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3600.01" y="666.28" as="targetPoint" />
+            <mxPoint x="3532.5" y="666.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0No4Y95WPuRv0wsTpAdu-87" value="There was no regular scanning operation on organizational machine images with YARA (a tool for identification and classification of malware samples) rules to detect malware prior to execution, or the operation was done in a rare basis.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="3501.26" y="539.2199999999999" width="197.5" height="100.29" as="geometry" />
+          <mxGeometry x="3433.75" y="539.2199999999999" width="197.5" height="100.29" as="geometry" />
         </mxCell>
         <mxCell id="0No4Y95WPuRv0wsTpAdu-91" value="Legend" style="swimlane;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-425" y="-178" width="460" height="198" as="geometry" />
@@ -887,7 +887,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J0PBFhfmoYSgyRRebVK--25" value="KillDisk malwares remained undetected without threat of being removed before its scheduled execution on day of the initial attack of which threat actors opened substations&#39; breakers.&lt;br&gt;&lt;br&gt;I-SC: Malware" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="3525.01" y="388.91" width="150" height="130" as="geometry" />
+          <mxGeometry x="3457.5" y="388.91" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="J0PBFhfmoYSgyRRebVK--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J0PBFhfmoYSgyRRebVK--28" target="0No4Y95WPuRv0wsTpAdu-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -896,7 +896,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2930" y="270" />
-              <mxPoint x="3600" y="270" />
+              <mxPoint x="3533" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -905,20 +905,20 @@
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J0PBFhfmoYSgyRRebVK--35" target="KtfwBzDnWO2-LZZDMrBM-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3600.01" y="786.28" as="targetPoint" />
+            <mxPoint x="3532.5" y="786.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J0PBFhfmoYSgyRRebVK--35" value="The cyber safety and security maintenance for the organization system was incomplete because of lack of regular scanning operation with YARA rules.&lt;br&gt;&lt;br&gt;B23-JF: Inadequate maintenance&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="3508.1400000000003" y="665.1199999999999" width="183.75" height="102.33" as="geometry" />
+          <mxGeometry x="3440.63" y="665.1199999999999" width="183.75" height="102.33" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KtfwBzDnWO2-LZZDMrBM-2" target="KtfwBzDnWO2-LZZDMrBM-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-2" value="Regular scanning operation with YARA rules was not included in the standard / procedures of cyber safety and security maintenance for the organization system." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3496.26" y="789.4399999999999" width="207.49" height="69.52" as="geometry" />
+          <mxGeometry x="3428.75" y="789.4399999999999" width="207.49" height="69.52" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-6" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="3487.51" y="879.81" width="225.01000000000022" height="106.47000000000003" as="geometry" />
+          <mxGeometry x="3420" y="879.81" width="225.01000000000022" height="106.47000000000003" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-3" value="LC23-S: The operations and maintenance program did not include regular scanning operation with YARA rules as standard and part of the procedures of cyber safety and security maintenance for the organization system." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="KtfwBzDnWO2-LZZDMrBM-6" vertex="1">
           <mxGeometry width="225.01" height="88.95" as="geometry" />
@@ -975,7 +975,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-23" value="There was no cyber IT team to investigate loss events and near miss events outside the organization as well as proper procedures and standards.&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2784" y="1335.94" width="207.5" height="60.69" as="geometry" />
+          <mxGeometry x="2784" y="1335.94" width="206" height="64.06" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KtfwBzDnWO2-LZZDMrBM-28" target="KtfwBzDnWO2-LZZDMrBM-17" edge="1">
           <mxGeometry relative="1" as="geometry">
