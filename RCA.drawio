@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T01:31:17.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1329.1" etag="nGNB191o2uz24n76uucI" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T01:31:28.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1329.1" etag="Mu15a8cg04eTuHEMGmHP" version="20.2.2" type="github">
   <diagram id="x_s2CizzIe0xejOUc2E4" name="Page-1">
-    <mxGraphModel dx="4860" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7050" dy="3192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1068,26 +1068,6 @@
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-64" value="RME #6 PECI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="KtfwBzDnWO2-LZZDMrBM-65" vertex="1">
           <mxGeometry y="97.74" width="175" height="19.999999999999996" as="geometry" />
-        </mxCell>
-        <mxCell id="KtfwBzDnWO2-LZZDMrBM-66" value="Additional roots if I have spare time after fixes and the total LT does not reach the maximum" style="swimlane;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="-1450" y="-280" width="700" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="1a5K0hj0Axs2Wz88hQpL-3" value="Threat actors opened breakers of substations in three power distributors, resulting in substations going offline." style="rounded=0;whiteSpace=wrap;html=1;" parent="KtfwBzDnWO2-LZZDMrBM-66" vertex="1">
-          <mxGeometry x="12.480000000000018" y="45" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1a5K0hj0Axs2Wz88hQpL-6" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" parent="KtfwBzDnWO2-LZZDMrBM-66" vertex="1">
-          <mxGeometry x="132.46999999999957" y="105" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1a5K0hj0Axs2Wz88hQpL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="KtfwBzDnWO2-LZZDMrBM-66" source="1a5K0hj0Axs2Wz88hQpL-3" target="1a5K0hj0Axs2Wz88hQpL-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="152.46999999999957" y="115" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1a5K0hj0Axs2Wz88hQpL-10" value="Corporation and ICS network had remote&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="KtfwBzDnWO2-LZZDMrBM-66" vertex="1">
-          <mxGeometry x="30.920000000000528" y="187.5" width="243.12" height="52.5" as="geometry" />
-        </mxCell>
-        <mxCell id="1a5K0hj0Axs2Wz88hQpL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KtfwBzDnWO2-LZZDMrBM-66" source="1a5K0hj0Axs2Wz88hQpL-6" target="1a5K0hj0Axs2Wz88hQpL-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KtfwBzDnWO2-LZZDMrBM-68" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1412.15" y="629.25" width="242.1500000000001" height="70.75" as="geometry" />
